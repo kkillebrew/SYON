@@ -1,0 +1,4 @@
+block	time	key
+0	106.919981956	right
+0	107.26999402	right
+0	109.422853947	left
