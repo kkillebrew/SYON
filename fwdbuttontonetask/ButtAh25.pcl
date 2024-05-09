@@ -1,0 +1,88 @@
+preset workspace matlab = new workspace( "srslab", true );
+
+
+start_exp.present();
+run_type.present();
+loop
+	int n = 1
+until
+	n > 1
+begin
+#loops through the scenario file
+loop 
+int i = 1
+until
+	i > trials.count()
+begin
+
+	trials[i].present();
+	
+	#if i == 50 then
+	#rest.present();
+	#ten.present();
+	#nine.present();
+	#eight.present();
+	#seven.present();
+	#six.present();
+	#five.present();
+	#four.present();
+	#three.present();
+	#two.present();
+	#one.present();
+	#start_2.present();
+	#end;
+	
+	i = i + 1;
+	
+end;
+	n = n + 1
+end;
+
+#get everything ready for playback
+
+matlab.run("file_path#C:\\Users\\EEG Task Computer\\Desktop\\SYON.git\\fwdbuttontonetask\\part1zap.m");
+
+int c = response_manager.total_response_count();
+int s = stimulus_manager.stimulus_count();
+
+loop
+	int k = 1
+until
+	k > s
+ begin
+	#stuff
+	stimulus_data stim = stimulus_manager.get_stimulus_data(k);
+	string ecode = stim.event_code();
+	if (bool( ecode.find("start") )) then 
+	#give its time to matlab
+	matlab.set_variable("startTime",stim.time());
+	end;
+	k = k+1;
+end;
+	
+loop
+	int j = 1
+until
+	j > c
+ begin
+	#stuff
+	#stimulus_data stim = stimulus_manager.get_stimulus_data(j);
+	response_data resp = response_manager.get_response_data(j);
+	#string ecode = stim.event_code();
+	int ecodes = resp.code();
+	#if (bool( ecode.find("start") )) then 
+		#give its time to matlab
+	#	matlab.set_variable("startTime",stim.time());
+	#otherwise see if the event was an interrupt:
+	if (ecodes == 222 ) then 
+		#give its time to matlab;
+		#matlab.set_variable("nextTime",stim.time());
+		matlab.set_variable("nextTime",resp.time());
+		matlab.run("file_path#C:\\Users\\EEG Task Computer\\Desktop\\SYON.git\\fwdbuttontonetask\\part3zap.m");
+	end;
+	#otherwise, we don't care about this event, move to next:
+	j = j+1;
+ end;
+matlab.run("file_path#C:\\Users\\EEG Task Computer\\Desktop\\SYON.git\\fwdbuttontonetask\\part4zap.m");
+matlab.run("file_path#C:\\Users\\EEG Task Computer\\Desktop\\SYON.git\\fwdbuttontonetask\\StimBuilderAH.m");
+matlab.shut_down();

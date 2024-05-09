@@ -1,0 +1,8 @@
+Scenario - Button
+Logfile written - 02/16/2021 12:41:46
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Picture	start	166	0	1	10675	3	0	next	other	0
+test	3	Picture	20	15512	0	1	14326	2	0	next	miss	0
+test	3	Quit		29824	14312

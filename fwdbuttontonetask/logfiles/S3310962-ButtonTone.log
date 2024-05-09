@@ -1,0 +1,8 @@
+Scenario - Push Button + tone (0ms)
+Logfile written - 10/26/2023 12:35:54
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+S3310962	1	Picture	start	69	0	1	40554	1	0	next	other	0
+S3310962	3	Nothing	nothing	45124	0	0			0		miss	0
+S3310962	3	Quit		98607	53483	NA

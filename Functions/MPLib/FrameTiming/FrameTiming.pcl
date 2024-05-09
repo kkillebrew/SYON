@@ -1,0 +1,15 @@
+/*
+AdjFrDur: Adjust Frame Duration
+adjusts aReqDur, the "requested duration", into a duration suitably adjusted for use with trials or stimulus
+events whose timing must be synchronized with video system vertical refresh rate.  In particular, the duration
+of a trial or event must end about halfway through the frame before the next trial or event is to occur, to
+allow GPU sufficient time to execute the state transition before next frame is drawn.
+*/
+
+sub
+	int AdjFrDur( int aReqDurMS, double aFrRate )
+begin
+	double tMSPerFr = 1000.0 / aFrRate;
+	return int( ( round( double( aReqDurMS ) / tMSPerFr, 0 ) - 0.5 ) * tMSPerFr );
+end;
+

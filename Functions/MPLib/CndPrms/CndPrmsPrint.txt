@@ -1,0 +1,7 @@
+code	Duration_Word_MSec	background_color	font	font_color	font_size
+default	500	127.127.127	default	127.127.127	1
+0					2
+1				0.255.0	
+10			times		
+11	750				
+12					

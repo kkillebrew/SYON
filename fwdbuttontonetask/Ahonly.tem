@@ -1,0 +1,12 @@
+trial{
+	monitor_sounds = false;
+	trial_duration = $resp;
+	#trial_type = specific_response;
+   #terminator_button = $resp;   
+   
+	nothing {};
+	sound Ah;  
+   time = 0;          
+	code = "Ah";
+	port_code = 25;
+};

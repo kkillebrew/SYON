@@ -1,0 +1,555 @@
+Scenario - passive press generic training 1.2
+Logfile written - 10/22/2020 17:16:27
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Kyle_Test6_btt	1	Picture	83	166	0	1	5005	2	0	4950	other	0
+Kyle_Test6_btt	1	Picture	82	10176	10010	1	5005	2	9950	4950	other	0
+Kyle_Test6_btt	1	Picture	81	20186	20020	1	5005	2	19950	4950	other	0
+Kyle_Test6_btt	1	Picture	80	30196	30030	1	5005	2	29950	4950	other	0
+Kyle_Test6_btt	1	Picture	81	40205	40039	2	10010	4	39950	9950	other	0
+Kyle_Test6_btt	1	Port Input	14	46521	46355	1
+Kyle_Test6_btt	1	Port Input	15	46521	46355	1
+Kyle_Test6_btt	1	Port Input	14	46521	46355	1
+Kyle_Test6_btt	1	Response	100	46521	46355	1
+Kyle_Test6_btt	1	Port Input	15	46522	46356	1
+Kyle_Test6_btt	1	Port Input	14	46529	46363	1
+Kyle_Test6_btt	1	Port Input	15	46531	46365	1
+Kyle_Test6_btt	1	Port Input	14	46531	46365	1
+Kyle_Test6_btt	1	Port Input	15	46532	46366	1
+Kyle_Test6_btt	1	Port Input	14	46532	46366	1
+Kyle_Test6_btt	1	Port Input	15	46533	46367	1
+Kyle_Test6_btt	1	Port Input	14	46533	46367	1
+Kyle_Test6_btt	1	Port Input	15	46533	46367	1
+Kyle_Test6_btt	1	Port Input	14	46533	46367	1
+Kyle_Test6_btt	1	Port Input	15	46533	46367	1
+Kyle_Test6_btt	1	Port Input	14	46533	46367	1
+Kyle_Test6_btt	1	Port Input	15	46533	46367	1
+Kyle_Test6_btt	1	Port Input	14	46533	46367	1
+Kyle_Test6_btt	1	Port Input	15	46533	46367	1
+Kyle_Test6_btt	1	Port Input	14	46533	46367	1
+Kyle_Test6_btt	1	Port Input	15	46534	46368	1
+Kyle_Test6_btt	1	Port Input	14	46534	46368	1
+Kyle_Test6_btt	1	Port Input	15	46534	46368	1
+Kyle_Test6_btt	1	Port Input	14	46534	46368	1
+Kyle_Test6_btt	1	Port Input	15	46534	46368	1
+Kyle_Test6_btt	1	Port Input	14	46534	46368	1
+Kyle_Test6_btt	1	Port Input	15	46534	46368	1
+Kyle_Test6_btt	1	Port Input	14	46534	46368	1
+Kyle_Test6_btt	1	Port Input	15	46534	46368	2
+Kyle_Test6_btt	1	Port Input	14	46535	46369	1
+Kyle_Test6_btt	1	Port Input	15	46535	46369	1
+Kyle_Test6_btt	1	Port Input	14	46535	46369	1
+Kyle_Test6_btt	1	Port Input	15	46535	46369	1
+Kyle_Test6_btt	1	Port Input	14	46535	46369	1
+Kyle_Test6_btt	1	Port Input	15	46535	46369	1
+Kyle_Test6_btt	1	Port Input	14	46535	46369	1
+Kyle_Test6_btt	1	Port Input	15	46536	46370	1
+Kyle_Test6_btt	1	Port Input	14	46536	46370	1
+Kyle_Test6_btt	1	Port Input	15	46537	46371	1
+Kyle_Test6_btt	1	Port Input	14	46537	46371	1
+Kyle_Test6_btt	1	Port Input	15	46537	46371	1
+Kyle_Test6_btt	1	Port Input	14	46537	46371	1
+Kyle_Test6_btt	1	Port Input	15	46623	46457	1
+Kyle_Test6_btt	1	Port Input	14	46623	46457	1
+Kyle_Test6_btt	1	Port Input	15	46628	46462	1
+Kyle_Test6_btt	1	Port Input	14	46628	46462	1
+Kyle_Test6_btt	1	Port Input	15	46628	46462	1
+Kyle_Test6_btt	1	Port Input	14	46628	46462	1
+Kyle_Test6_btt	1	Port Input	15	46630	46464	1
+Kyle_Test6_btt	1	Port Input	14	46630	46464	1
+Kyle_Test6_btt	1	Port Input	15	46631	46465	1
+Kyle_Test6_btt	1	Port Input	14	46631	46465	1
+Kyle_Test6_btt	1	Port Input	15	46634	46468	1
+Kyle_Test6_btt	1	Port Input	14	46634	46468	1
+Kyle_Test6_btt	1	Port Input	15	46635	46469	1
+Kyle_Test6_btt	1	Port Input	14	46635	46469	2
+Kyle_Test6_btt	1	Port Input	15	46636	46470	1
+Kyle_Test6_btt	1	Port Input	14	46636	46470	1
+Kyle_Test6_btt	1	Port Input	15	46638	46472	1
+Kyle_Test6_btt	1	Port Input	14	46638	46472	1
+Kyle_Test6_btt	1	Port Input	15	46642	46476	1
+Kyle_Test6_btt	1	Port Input	14	46642	46476	1
+Kyle_Test6_btt	1	Port Input	15	46642	46476	2
+Kyle_Test6_btt	1	Port Input	14	46643	46477	1
+Kyle_Test6_btt	1	Port Input	15	48388	48222	1
+Kyle_Test6_btt	1	Port Input	14	48388	48222	1
+Kyle_Test6_btt	1	Port Input	15	48399	48233	1
+Kyle_Test6_btt	1	Port Input	14	48399	48233	1
+Kyle_Test6_btt	1	Port Input	15	48399	48233	1
+Kyle_Test6_btt	1	Port Input	14	48399	48233	1
+Kyle_Test6_btt	1	Port Input	15	48400	48234	1
+Kyle_Test6_btt	1	Port Input	14	48400	48234	1
+Kyle_Test6_btt	1	Port Input	15	48401	48235	1
+Kyle_Test6_btt	1	Port Input	14	48401	48235	1
+Kyle_Test6_btt	1	Port Input	15	48401	48235	1
+Kyle_Test6_btt	1	Port Input	14	48401	48235	1
+Kyle_Test6_btt	1	Port Input	15	48401	48235	1
+Kyle_Test6_btt	1	Port Input	14	48401	48235	1
+Kyle_Test6_btt	1	Port Input	15	48401	48235	1
+Kyle_Test6_btt	1	Port Input	14	48401	48235	1
+Kyle_Test6_btt	1	Port Input	15	48402	48236	1
+Kyle_Test6_btt	1	Port Input	14	48402	48236	1
+Kyle_Test6_btt	1	Port Input	15	48402	48236	1
+Kyle_Test6_btt	1	Port Input	14	48402	48236	1
+Kyle_Test6_btt	1	Port Input	15	48402	48236	1
+Kyle_Test6_btt	1	Picture	81	60225	60059	1	10010	2	59950	9950	other	0
+Kyle_Test6_btt	1	Port Input	14	64098	63932	1
+Kyle_Test6_btt	1	Port Input	15	64098	63932	1
+Kyle_Test6_btt	1	Port Input	14	64098	63932	1
+Kyle_Test6_btt	1	Port Input	15	64098	63932	1
+Kyle_Test6_btt	1	Port Input	14	64098	63932	1
+Kyle_Test6_btt	1	Port Input	15	64098	63932	2
+Kyle_Test6_btt	1	Response	100	64098	63932	1
+Kyle_Test6_btt	1	Port Input	14	64099	63933	1
+Kyle_Test6_btt	1	Port Input	15	64099	63933	1
+Kyle_Test6_btt	1	Port Input	14	64099	63933	1
+Kyle_Test6_btt	1	Port Input	15	64121	63955	1
+Kyle_Test6_btt	1	Port Input	14	64121	63955	1
+Kyle_Test6_btt	1	Port Input	15	65834	65668	1
+Kyle_Test6_btt	1	Port Input	14	65834	65668	1
+Kyle_Test6_btt	1	Port Input	15	65836	65670	1
+Kyle_Test6_btt	1	Port Input	14	65836	65670	1
+Kyle_Test6_btt	1	Port Input	15	65837	65671	1
+Kyle_Test6_btt	1	Port Input	14	65837	65671	1
+Kyle_Test6_btt	1	Port Input	15	65837	65671	1
+Kyle_Test6_btt	1	Port Input	14	65837	65671	1
+Kyle_Test6_btt	1	Port Input	15	65837	65671	1
+Kyle_Test6_btt	1	Port Input	14	65837	65671	1
+Kyle_Test6_btt	1	Port Input	15	65837	65671	2
+Kyle_Test6_btt	1	Port Input	14	65838	65672	1
+Kyle_Test6_btt	1	Port Input	15	65838	65672	1
+Kyle_Test6_btt	1	Port Input	14	65838	65672	1
+Kyle_Test6_btt	1	Port Input	15	65838	65672	1
+Kyle_Test6_btt	1	Port Input	14	65838	65672	1
+Kyle_Test6_btt	1	Port Input	15	65838	65672	1
+Kyle_Test6_btt	1	Port Input	14	65838	65672	1
+Kyle_Test6_btt	1	Port Input	15	65838	65672	1
+Kyle_Test6_btt	1	Port Input	14	65838	65672	1
+Kyle_Test6_btt	1	Port Input	15	65839	65673	1
+Kyle_Test6_btt	1	Port Input	14	65839	65673	1
+Kyle_Test6_btt	1	Port Input	15	65839	65673	1
+Kyle_Test6_btt	1	Port Input	14	65839	65673	1
+Kyle_Test6_btt	1	Port Input	15	65839	65673	1
+Kyle_Test6_btt	1	Port Input	14	65839	65673	1
+Kyle_Test6_btt	1	Port Input	15	65839	65673	1
+Kyle_Test6_btt	1	Port Input	14	65839	65673	1
+Kyle_Test6_btt	1	Port Input	15	65839	65673	1
+Kyle_Test6_btt	1	Port Input	14	65839	65673	1
+Kyle_Test6_btt	1	Port Input	15	65839	65673	1
+Kyle_Test6_btt	1	Port Input	14	65839	65673	1
+Kyle_Test6_btt	1	Port Input	15	65840	65674	1
+Kyle_Test6_btt	1	Port Input	14	65840	65674	1
+Kyle_Test6_btt	1	Port Input	15	65840	65674	1
+Kyle_Test6_btt	1	Port Input	14	65840	65674	1
+Kyle_Test6_btt	1	Port Input	15	65840	65674	1
+Kyle_Test6_btt	1	Port Input	14	65840	65674	1
+Kyle_Test6_btt	1	Port Input	15	65840	65674	1
+Kyle_Test6_btt	1	Port Input	14	65840	65674	1
+Kyle_Test6_btt	1	Port Input	15	65840	65674	1
+Kyle_Test6_btt	1	Port Input	14	65840	65674	1
+Kyle_Test6_btt	1	Port Input	15	65841	65675	1
+Kyle_Test6_btt	1	Port Input	14	65841	65675	1
+Kyle_Test6_btt	1	Port Input	15	65841	65675	1
+Kyle_Test6_btt	1	Port Input	14	65841	65675	1
+Kyle_Test6_btt	1	Port Input	15	65841	65675	1
+Kyle_Test6_btt	1	Port Input	14	65841	65675	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65842	65676	1
+Kyle_Test6_btt	1	Port Input	14	65842	65676	1
+Kyle_Test6_btt	1	Port Input	15	65843	65677	1
+Kyle_Test6_btt	1	Port Input	14	65843	65677	1
+Kyle_Test6_btt	1	Port Input	15	65843	65677	1
+Kyle_Test6_btt	1	Port Input	14	65843	65677	1
+Kyle_Test6_btt	1	Port Input	15	65843	65677	1
+Kyle_Test6_btt	1	Port Input	14	65843	65677	1
+Kyle_Test6_btt	1	Port Input	15	65843	65677	1
+Kyle_Test6_btt	1	Port Input	14	65843	65677	1
+Kyle_Test6_btt	1	Port Input	15	65843	65677	1
+Kyle_Test6_btt	1	Port Input	14	65843	65677	1
+Kyle_Test6_btt	1	Port Input	15	65843	65677	2
+Kyle_Test6_btt	1	Port Input	14	65844	65678	1
+Kyle_Test6_btt	1	Port Input	15	65844	65678	1
+Kyle_Test6_btt	1	Port Input	14	65844	65678	1
+Kyle_Test6_btt	1	Port Input	15	65844	65678	1
+Kyle_Test6_btt	1	Picture	81	80245	80079	1	10010	2	79950	9950	other	0
+Kyle_Test6_btt	1	Port Input	14	83658	83492	1
+Kyle_Test6_btt	1	Port Input	15	83658	83492	1
+Kyle_Test6_btt	1	Port Input	14	83658	83492	1
+Kyle_Test6_btt	1	Port Input	15	83658	83492	1
+Kyle_Test6_btt	1	Port Input	14	83658	83492	1
+Kyle_Test6_btt	1	Port Input	15	83658	83492	2
+Kyle_Test6_btt	1	Port Input	14	83658	83492	2
+Kyle_Test6_btt	1	Response	100	83658	83492	1
+Kyle_Test6_btt	1	Port Input	15	83659	83493	1
+Kyle_Test6_btt	1	Port Input	14	83659	83493	1
+Kyle_Test6_btt	1	Port Input	15	83659	83493	1
+Kyle_Test6_btt	1	Port Input	14	83659	83493	1
+Kyle_Test6_btt	1	Port Input	15	83659	83493	1
+Kyle_Test6_btt	1	Port Input	14	83659	83493	1
+Kyle_Test6_btt	1	Port Input	15	83660	83494	1
+Kyle_Test6_btt	1	Port Input	14	83660	83494	1
+Kyle_Test6_btt	1	Port Input	15	83660	83494	1
+Kyle_Test6_btt	1	Port Input	14	83660	83494	1
+Kyle_Test6_btt	1	Port Input	15	83660	83494	1
+Kyle_Test6_btt	1	Port Input	14	83660	83494	1
+Kyle_Test6_btt	1	Port Input	15	83660	83494	1
+Kyle_Test6_btt	1	Port Input	14	83660	83494	1
+Kyle_Test6_btt	1	Port Input	15	83661	83495	1
+Kyle_Test6_btt	1	Port Input	14	83661	83495	1
+Kyle_Test6_btt	1	Port Input	15	83661	83495	1
+Kyle_Test6_btt	1	Port Input	14	83661	83495	1
+Kyle_Test6_btt	1	Port Input	15	83661	83495	1
+Kyle_Test6_btt	1	Port Input	14	83661	83495	1
+Kyle_Test6_btt	1	Port Input	15	83661	83495	1
+Kyle_Test6_btt	1	Port Input	14	83661	83495	1
+Kyle_Test6_btt	1	Port Input	15	83662	83496	1
+Kyle_Test6_btt	1	Port Input	14	83662	83496	1
+Kyle_Test6_btt	1	Port Input	15	83662	83496	1
+Kyle_Test6_btt	1	Port Input	14	83662	83496	1
+Kyle_Test6_btt	1	Port Input	15	83662	83496	1
+Kyle_Test6_btt	1	Port Input	14	83662	83496	1
+Kyle_Test6_btt	1	Port Input	15	84970	84804	1
+Kyle_Test6_btt	1	Port Input	14	84970	84804	1
+Kyle_Test6_btt	1	Port Input	15	84970	84804	1
+Kyle_Test6_btt	1	Port Input	14	84970	84804	1
+Kyle_Test6_btt	1	Port Input	15	84970	84804	1
+Kyle_Test6_btt	1	Port Input	14	84970	84804	1
+Kyle_Test6_btt	1	Port Input	15	84970	84804	1
+Kyle_Test6_btt	1	Port Input	14	84970	84804	1
+Kyle_Test6_btt	1	Port Input	15	84971	84805	1
+Kyle_Test6_btt	2	Port Input	14	116838	26417	4
+Kyle_Test6_btt	2	Response	100	116838	26417	4
+Kyle_Test6_btt	2	Port Input	15	116841	26420	1
+Kyle_Test6_btt	2	Port Input	14	116841	26420	1
+Kyle_Test6_btt	3	Port Input	15	118417	1470	4
+Kyle_Test6_btt	3	Port Input	14	118420	1473	1
+Kyle_Test6_btt	3	Port Input	15	118420	1473	4
+Kyle_Test6_btt	3	Port Input	14	133256	16309	3
+Kyle_Test6_btt	3	Response	100	133256	16309	3
+Kyle_Test6_btt	3	Port Input	15	133261	16314	1
+Kyle_Test6_btt	3	Port Input	14	133261	16314	2
+Kyle_Test6_btt	4	Port Input	15	135178	1881	4
+Kyle_Test6_btt	4	Port Input	14	147641	14344	3
+Kyle_Test6_btt	4	Response	100	147641	14344	3
+Kyle_Test6_btt	5	Port Input	15	149413	1602	1
+Kyle_Test6_btt	5	Port Input	14	161555	13744	1
+Kyle_Test6_btt	5	Port Input	15	161555	13744	1
+Kyle_Test6_btt	5	Port Input	14	161555	13744	3
+Kyle_Test6_btt	5	Response	100	161555	13744	1
+Kyle_Test6_btt	6	Port Input	15	162968	1310	4
+Kyle_Test6_btt	6	Port Input	14	162971	1313	1
+Kyle_Test6_btt	6	Port Input	15	162971	1313	3
+Kyle_Test6_btt	6	Port Input	14	172809	11151	4
+Kyle_Test6_btt	6	Response	100	172809	11151	4
+Kyle_Test6_btt	6	Port Input	15	172812	11154	1
+Kyle_Test6_btt	6	Port Input	14	172812	11154	1
+Kyle_Test6_btt	6	Port Input	15	172812	11154	1
+Kyle_Test6_btt	6	Port Input	14	172812	11154	4
+Kyle_Test6_btt	6	Port Input	15	172815	11157	1
+Kyle_Test6_btt	6	Port Input	14	172815	11157	2
+Kyle_Test6_btt	7	Port Input	15	174100	1265	4
+Kyle_Test6_btt	7	Port Input	14	182551	9716	4
+Kyle_Test6_btt	7	Response	100	182551	9716	4
+Kyle_Test6_btt	7	Port Input	15	182554	9719	1
+Kyle_Test6_btt	7	Port Input	14	182554	9719	1
+Kyle_Test6_btt	7	Port Input	15	182557	9722	1
+Kyle_Test6_btt	7	Port Input	14	182557	9722	1
+Kyle_Test6_btt	7	Port Input	15	182558	9723	1
+Kyle_Test6_btt	7	Port Input	14	182558	9723	1
+Kyle_Test6_btt	8	Port Input	15	184064	1386	1
+Kyle_Test6_btt	8	Port Input	14	184064	1386	1
+Kyle_Test6_btt	8	Port Input	15	184064	1386	4
+Kyle_Test6_btt	8	Port Input	14	194201	11523	4
+Kyle_Test6_btt	8	Response	100	194201	11523	4
+Kyle_Test6_btt	9	Port Input	15	195524	1167	1
+Kyle_Test6_btt	9	Port Input	14	195524	1167	1
+Kyle_Test6_btt	9	Port Input	15	195524	1167	1
+Kyle_Test6_btt	9	Port Input	14	195524	1167	4
+Kyle_Test6_btt	9	Port Input	15	195527	1170	1
+Kyle_Test6_btt	9	Port Input	14	195527	1170	1
+Kyle_Test6_btt	9	Port Input	15	195530	1173	1
+Kyle_Test6_btt	9	Port Input	14	204623	10266	4
+Kyle_Test6_btt	9	Response	100	204623	10266	4
+Kyle_Test6_btt	9	Port Input	15	204625	10268	2
+Kyle_Test6_btt	9	Port Input	14	204626	10269	1
+Kyle_Test6_btt	10	Port Input	15	206034	1334	4
+Kyle_Test6_btt	10	Port Input	14	206037	1337	1
+Kyle_Test6_btt	10	Port Input	15	206037	1337	3
+Kyle_Test6_btt	10	Port Input	14	228821	24121	3
+Kyle_Test6_btt	10	Response	100	228821	24121	3
+Kyle_Test6_btt	11	Port Input	15	230259	1369	3
+Kyle_Test6_btt	11	Port Input	14	230261	1371	1
+Kyle_Test6_btt	11	Port Input	15	230269	1379	1
+Kyle_Test6_btt	11	Port Input	14	243219	14329	1
+Kyle_Test6_btt	11	Port Input	15	243219	14329	2
+Kyle_Test6_btt	11	Response	100	243219	14329	2
+Kyle_Test6_btt	11	Port Input	14	243220	14330	3
+Kyle_Test6_btt	12	Port Input	15	244672	1445	3
+Kyle_Test6_btt	12	Port Input	14	244674	1447	2
+Kyle_Test6_btt	12	Port Input	15	244680	1453	1
+Kyle_Test6_btt	12	Port Input	14	244680	1453	4
+Kyle_Test6_btt	12	Port Input	15	244683	1456	1
+Kyle_Test6_btt	12	Port Input	14	258530	15303	1
+Kyle_Test6_btt	12	Response	100	258530	15303	1
+Kyle_Test6_btt	13	Port Input	15	260201	1615	1
+Kyle_Test6_btt	13	Port Input	14	260201	1615	2
+Kyle_Test6_btt	13	Port Input	15	260207	1621	3
+Kyle_Test6_btt	13	Port Input	14	274333	15747	3
+Kyle_Test6_btt	13	Response	100	274333	15747	3
+Kyle_Test6_btt	13	Port Input	15	274340	15754	1
+Kyle_Test6_btt	13	Port Input	14	274340	15754	1
+Kyle_Test6_btt	14	Port Input	15	276071	1636	4
+Kyle_Test6_btt	14	Port Input	14	276074	1639	1
+Kyle_Test6_btt	14	Port Input	15	276077	1642	1
+Kyle_Test6_btt	14	Port Input	14	276077	1642	1
+Kyle_Test6_btt	14	Port Input	15	276077	1642	3
+Kyle_Test6_btt	14	Port Input	14	294971	20536	4
+Kyle_Test6_btt	14	Response	100	294971	20536	4
+Kyle_Test6_btt	15	Port Input	15	296337	1215	3
+Kyle_Test6_btt	15	Port Input	14	308598	13476	3
+Kyle_Test6_btt	15	Response	100	308598	13476	3
+Kyle_Test6_btt	16	Port Input	15	310013	1378	1
+Kyle_Test6_btt	16	Port Input	14	310013	1378	4
+Kyle_Test6_btt	16	Port Input	15	310021	1386	4
+Kyle_Test6_btt	16	Port Input	14	326487	17852	4
+Kyle_Test6_btt	16	Response	100	326487	17852	4
+Kyle_Test6_btt	16	Port Input	15	326490	17855	1
+Kyle_Test6_btt	16	Port Input	14	326490	17855	1
+Kyle_Test6_btt	17	Port Input	15	327939	1286	3
+Kyle_Test6_btt	17	Port Input	14	354269	27616	4
+Kyle_Test6_btt	17	Response	100	354269	27616	4
+Kyle_Test6_btt	17	Port Input	15	354275	27622	1
+Kyle_Test6_btt	17	Port Input	14	354275	27622	1
+Kyle_Test6_btt	17	Port Input	15	354275	27622	1
+Kyle_Test6_btt	17	Port Input	14	354275	27622	1
+Kyle_Test6_btt	17	Port Input	15	354275	27622	1
+Kyle_Test6_btt	17	Port Input	14	354275	27622	1
+Kyle_Test6_btt	18	Port Input	15	355491	1144	1
+Kyle_Test6_btt	18	Port Input	14	355491	1144	1
+Kyle_Test6_btt	18	Port Input	15	355494	1147	4
+Kyle_Test6_btt	18	Port Input	14	369102	14755	1
+Kyle_Test6_btt	18	Response	100	369102	14755	1
+Kyle_Test6_btt	19	Port Input	15	370434	1239	4
+Kyle_Test6_btt	19	Port Input	14	370437	1242	1
+Kyle_Test6_btt	19	Port Input	15	370437	1242	4
+Kyle_Test6_btt	19	Port Input	14	382400	13205	1
+Kyle_Test6_btt	19	Port Input	15	382400	13205	1
+Kyle_Test6_btt	19	Port Input	14	382400	13205	4
+Kyle_Test6_btt	19	Response	100	382400	13205	1
+Kyle_Test6_btt	20	Port Input	15	383782	1241	1
+Kyle_Test6_btt	20	Port Input	14	383782	1241	4
+Kyle_Test6_btt	20	Port Input	15	383785	1244	3
+Kyle_Test6_btt	20	Port Input	14	398534	15993	1
+Kyle_Test6_btt	20	Port Input	15	398534	15993	1
+Kyle_Test6_btt	20	Port Input	14	398534	15993	1
+Kyle_Test6_btt	20	Port Input	15	398534	15993	1
+Kyle_Test6_btt	20	Port Input	14	398534	15993	4
+Kyle_Test6_btt	20	Response	100	398534	15993	1
+Kyle_Test6_btt	20	Port Input	15	398538	15997	1
+Kyle_Test6_btt	20	Port Input	14	398538	15997	1
+Kyle_Test6_btt	21	Port Input	15	399938	1381	1
+Kyle_Test6_btt	21	Port Input	14	399938	1381	4
+Kyle_Test6_btt	21	Port Input	15	399944	1387	1
+Kyle_Test6_btt	21	Port Input	14	399944	1387	2
+Kyle_Test6_btt	21	Port Input	15	399945	1388	3
+Kyle_Test6_btt	21	Port Input	14	416925	18368	3
+Kyle_Test6_btt	21	Response	100	416925	18368	4
+Kyle_Test6_btt	22	Port Input	15	418547	1472	4
+Kyle_Test6_btt	22	Port Input	14	434046	16971	4
+Kyle_Test6_btt	22	Response	100	434046	16971	4
+Kyle_Test6_btt	23	Port Input	15	435364	1272	4
+Kyle_Test6_btt	23	Port Input	14	451049	16957	1
+Kyle_Test6_btt	23	Response	100	451049	16957	1
+Kyle_Test6_btt	24	Port Input	15	452364	1256	1
+Kyle_Test6_btt	24	Port Input	14	467433	16325	4
+Kyle_Test6_btt	24	Response	100	467433	16325	4
+Kyle_Test6_btt	25	Port Input	15	468965	1507	3
+Kyle_Test6_btt	25	Port Input	14	486402	18944	4
+Kyle_Test6_btt	25	Response	100	486402	18944	4
+Kyle_Test6_btt	26	Port Input	15	487927	1451	1
+Kyle_Test6_btt	26	Port Input	14	487927	1451	1
+Kyle_Test6_btt	26	Port Input	15	487933	1457	3
+Kyle_Test6_btt	26	Port Input	14	502754	16278	3
+Kyle_Test6_btt	26	Response	100	502754	16278	3
+Kyle_Test6_btt	27	Port Input	15	504194	1368	4
+Kyle_Test6_btt	27	Port Input	14	520560	17734	4
+Kyle_Test6_btt	27	Response	100	520560	17734	4
+Kyle_Test6_btt	27	Port Input	15	520563	17737	1
+Kyle_Test6_btt	27	Port Input	14	520563	17737	1
+Kyle_Test6_btt	28	Port Input	15	521911	1235	1
+Kyle_Test6_btt	28	Port Input	14	521911	1235	1
+Kyle_Test6_btt	28	Port Input	15	521911	1235	4
+Kyle_Test6_btt	28	Port Input	14	537325	16649	4
+Kyle_Test6_btt	28	Response	100	537325	16649	4
+Kyle_Test6_btt	29	Port Input	15	538722	1362	1
+Kyle_Test6_btt	29	Port Input	14	538722	1362	4
+Kyle_Test6_btt	29	Port Input	15	538725	1365	3
+Kyle_Test6_btt	29	Port Input	14	555361	18001	3
+Kyle_Test6_btt	29	Response	100	555361	18001	3
+Kyle_Test6_btt	29	Port Input	15	555363	18003	1
+Kyle_Test6_btt	29	Port Input	14	555363	18003	1
+Kyle_Test6_btt	29	Port Input	15	555364	18004	1
+Kyle_Test6_btt	29	Port Input	14	555364	18004	3
+Kyle_Test6_btt	30	Port Input	15	556534	990	1
+Kyle_Test6_btt	30	Port Input	14	556534	990	2
+Kyle_Test6_btt	30	Port Input	15	556537	993	1
+Kyle_Test6_btt	30	Port Input	14	556537	993	1
+Kyle_Test6_btt	30	Port Input	15	556544	1000	4
+Kyle_Test6_btt	30	Port Input	14	575340	19796	4
+Kyle_Test6_btt	30	Response	100	575340	19796	4
+Kyle_Test6_btt	31	Port Input	15	576774	1377	4
+Kyle_Test6_btt	31	Port Input	14	576777	1380	1
+Kyle_Test6_btt	31	Port Input	15	576777	1380	4
+Kyle_Test6_btt	31	Port Input	14	596471	21074	4
+Kyle_Test6_btt	31	Response	100	596471	21074	4
+Kyle_Test6_btt	31	Port Input	15	596474	21077	1
+Kyle_Test6_btt	31	Port Input	14	596474	21077	4
+Kyle_Test6_btt	32	Port Input	15	597744	1160	1
+Kyle_Test6_btt	32	Port Input	14	597744	1160	1
+Kyle_Test6_btt	32	Port Input	15	597744	1160	4
+Kyle_Test6_btt	32	Port Input	14	597747	1163	1
+Kyle_Test6_btt	32	Port Input	15	597747	1163	4
+Kyle_Test6_btt	32	Port Input	14	617263	20679	4
+Kyle_Test6_btt	32	Response	100	617263	20679	4
+Kyle_Test6_btt	33	Port Input	15	618567	1129	3
+Kyle_Test6_btt	33	Port Input	14	638142	20704	4
+Kyle_Test6_btt	33	Response	100	638142	20704	4
+Kyle_Test6_btt	33	Port Input	15	638145	20707	1
+Kyle_Test6_btt	33	Port Input	14	638145	20707	1
+Kyle_Test6_btt	34	Port Input	15	639612	1320	1
+Kyle_Test6_btt	34	Port Input	14	639612	1320	1
+Kyle_Test6_btt	34	Port Input	15	639612	1320	4
+Kyle_Test6_btt	34	Port Input	14	659582	21290	4
+Kyle_Test6_btt	34	Response	100	659582	21290	4
+Kyle_Test6_btt	35	Port Input	15	661051	1405	1
+Kyle_Test6_btt	35	Port Input	14	678871	19225	4
+Kyle_Test6_btt	35	Response	100	678871	19225	4
+Kyle_Test6_btt	35	Port Input	15	678879	19233	1
+Kyle_Test6_btt	35	Port Input	14	678879	19233	12
+Kyle_Test6_btt	36	Port Input	15	680092	1094	1
+Kyle_Test6_btt	36	Port Input	14	680092	1094	3
+Kyle_Test6_btt	36	Port Input	15	680095	1097	3
+Kyle_Test6_btt	36	Port Input	14	698869	19871	1
+Kyle_Test6_btt	36	Port Input	15	698869	19871	2
+Kyle_Test6_btt	36	Response	100	698869	19871	2
+Kyle_Test6_btt	36	Port Input	14	698870	19872	3
+Kyle_Test6_btt	37	Port Input	15	700409	1391	4
+Kyle_Test6_btt	37	Port Input	14	718980	19962	4
+Kyle_Test6_btt	37	Response	100	718980	19962	4
+Kyle_Test6_btt	37	Port Input	15	718986	19968	1
+Kyle_Test6_btt	37	Port Input	14	718986	19968	1
+Kyle_Test6_btt	38	Port Input	15	720421	1383	4
+Kyle_Test6_btt	38	Port Input	14	720424	1386	1
+Kyle_Test6_btt	38	Port Input	15	720424	1386	4
+Kyle_Test6_btt	38	Port Input	14	740299	21261	3
+Kyle_Test6_btt	38	Response	100	740299	21261	4
+Kyle_Test6_btt	38	Port Input	15	740301	21263	2
+Kyle_Test6_btt	38	Port Input	14	740302	21264	1
+Kyle_Test6_btt	39	Port Input	15	741968	1576	4
+Kyle_Test6_btt	39	Port Input	14	758432	18040	3
+Kyle_Test6_btt	39	Response	100	758432	18040	4
+Kyle_Test6_btt	39	Port Input	15	758438	18046	1
+Kyle_Test6_btt	39	Port Input	14	758438	18046	2
+Kyle_Test6_btt	39	Port Input	15	758439	18047	1
+Kyle_Test6_btt	39	Port Input	14	758439	18047	1
+Kyle_Test6_btt	40	Port Input	15	760126	1550	4
+Kyle_Test6_btt	40	Port Input	14	780271	21695	4
+Kyle_Test6_btt	40	Response	100	780271	21695	4
+Kyle_Test6_btt	41	Port Input	15	781620	1189	1
+Kyle_Test6_btt	41	Port Input	14	781620	1189	2
+Kyle_Test6_btt	41	Port Input	15	781621	1190	3
+Kyle_Test6_btt	41	Port Input	14	798971	18540	4
+Kyle_Test6_btt	41	Response	100	798971	18540	4
+Kyle_Test6_btt	42	Port Input	15	800632	1516	4
+Kyle_Test6_btt	42	Port Input	14	819449	20333	4
+Kyle_Test6_btt	42	Response	100	819449	20333	4
+Kyle_Test6_btt	42	Port Input	15	819455	20339	1
+Kyle_Test6_btt	42	Port Input	14	819455	20339	1
+Kyle_Test6_btt	42	Port Input	15	819455	20339	1
+Kyle_Test6_btt	42	Port Input	14	819455	20339	1
+Kyle_Test6_btt	43	Port Input	15	821042	1573	1
+Kyle_Test6_btt	43	Port Input	14	821042	1573	1
+Kyle_Test6_btt	43	Port Input	15	821042	1573	4
+Kyle_Test6_btt	43	Port Input	14	838501	19032	4
+Kyle_Test6_btt	43	Response	100	838501	19032	4
+Kyle_Test6_btt	44	Port Input	15	839895	1240	4
+Kyle_Test6_btt	44	Port Input	14	854279	15624	4
+Kyle_Test6_btt	44	Response	100	854279	15624	4
+Kyle_Test6_btt	45	Port Input	15	855918	1581	1
+Kyle_Test6_btt	45	Port Input	14	855918	1581	1
+Kyle_Test6_btt	45	Port Input	15	855918	1581	4
+Kyle_Test6_btt	45	Port Input	14	875191	20854	1
+Kyle_Test6_btt	45	Port Input	15	875191	20854	1
+Kyle_Test6_btt	45	Port Input	14	875191	20854	4
+Kyle_Test6_btt	45	Response	100	875191	20854	1
+Kyle_Test6_btt	46	Port Input	15	876816	1458	4
+Kyle_Test6_btt	46	Port Input	14	894449	19091	2
+Kyle_Test6_btt	46	Response	100	894449	19091	2
+Kyle_Test6_btt	47	Port Input	15	896012	1469	1
+Kyle_Test6_btt	47	Port Input	14	913301	18758	3
+Kyle_Test6_btt	47	Response	100	913301	18758	4
+Kyle_Test6_btt	47	Port Input	15	913303	18760	2
+Kyle_Test6_btt	47	Port Input	14	913304	18761	4
+Kyle_Test6_btt	48	Port Input	15	914978	1583	4
+Kyle_Test6_btt	48	Port Input	14	933174	19779	4
+Kyle_Test6_btt	48	Response	100	933174	19779	4
+Kyle_Test6_btt	48	Port Input	15	933177	19782	1
+Kyle_Test6_btt	48	Port Input	14	933177	19782	4
+Kyle_Test6_btt	48	Port Input	15	933182	19787	1
+Kyle_Test6_btt	48	Port Input	14	933182	19787	1
+Kyle_Test6_btt	49	Port Input	15	934845	1597	4
+Kyle_Test6_btt	49	Port Input	14	951717	18469	1
+Kyle_Test6_btt	49	Response	100	951717	18469	2
+Kyle_Test6_btt	50	Port Input	15	953171	1405	1
+Kyle_Test6_btt	50	Port Input	14	953171	1405	4
+Kyle_Test6_btt	50	Port Input	15	953177	1411	4
+Kyle_Test6_btt	50	Port Input	14	953180	1414	1
+Kyle_Test6_btt	50	Port Input	15	953180	1414	4
+Kyle_Test6_btt	50	Port Input	14	970941	19175	1
+Kyle_Test6_btt	50	Response	100	970941	19175	1
+Kyle_Test6_btt	51	Port Input	15	972431	1313	2
+Kyle_Test6_btt	51	Port Input	14	972434	1316	1
+Kyle_Test6_btt	51	Port Input	15	972434	1316	4
+Kyle_Test6_btt	51	Port Input	14	991117	19999	1
+Kyle_Test6_btt	51	Response	100	991117	19999	1
+Kyle_Test6_btt	52	Port Input	15	992691	1553	4
+Kyle_Test6_btt	52	Port Input	14	1011195	20057	1
+Kyle_Test6_btt	52	Port Input	15	1011195	20057	2
+Kyle_Test6_btt	52	Response	100	1011195	20057	1
+Kyle_Test6_btt	52	Port Input	14	1011196	20058	3
+Kyle_Test6_btt	53	Port Input	15	1012835	1511	1
+Kyle_Test6_btt	53	Port Input	14	1031058	19734	1
+Kyle_Test6_btt	53	Response	100	1031058	19734	1
+Kyle_Test6_btt	54	Port Input	15	1032532	1355	4
+Kyle_Test6_btt	54	Port Input	14	1032535	1358	1
+Kyle_Test6_btt	54	Port Input	15	1032535	1358	1
+Kyle_Test6_btt	54	Port Input	14	1050357	19180	4
+Kyle_Test6_btt	54	Response	100	1050357	19180	4
+Kyle_Test6_btt	55	Port Input	15	1052008	1479	1
+Kyle_Test6_btt	55	Port Input	14	1052008	1479	1
+Kyle_Test6_btt	55	Port Input	15	1052008	1479	4
+Kyle_Test6_btt	55	Port Input	14	1069562	19033	4
+Kyle_Test6_btt	55	Response	100	1069562	19033	4
+Kyle_Test6_btt	56	Port Input	15	1071112	1397	4
+Kyle_Test6_btt	56	Port Input	14	1071115	1400	1
+Kyle_Test6_btt	56	Port Input	15	1071118	1403	1
+Kyle_Test6_btt	56	Port Input	14	1071118	1403	4
+Kyle_Test6_btt	56	Port Input	15	1071121	1406	4
+Kyle_Test6_btt	56	Port Input	14	1086675	16960	3
+Kyle_Test6_btt	56	Response	100	1086675	16960	3
+Kyle_Test6_btt	56	Port Input	15	1086681	16966	1
+Kyle_Test6_btt	56	Port Input	14	1086681	16966	1

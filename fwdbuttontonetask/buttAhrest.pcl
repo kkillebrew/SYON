@@ -1,0 +1,37 @@
+start_exps.present();
+loop
+	int n = 1
+until
+	n > 1
+begin
+#loops through the scenario file
+loop 
+int i = 1
+until
+	i > trials.count()
+begin
+
+	if i == 50 then
+	else
+	trials[i].present();
+	end;
+#	if i == 50 then
+#	rest.present();
+#	ten.present();
+#	nine.present();
+#	eight.present();
+#	seven.present();
+#	six.present();
+#	five.present();
+#	four.present();
+#	three.present();
+#	two.present();
+#	one.present();
+#	start_2.present();
+#	end;
+	
+	i = i + 1;
+	
+end;
+	n = n + 1
+end;

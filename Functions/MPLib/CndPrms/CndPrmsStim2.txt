@@ -1,0 +1,5 @@
+Cnd	Duration_MSec	Font	Font_Color	Font_Size	X_Pos_DVA	Y_Pos_DVA	Interlude_MSec
+default	1000	times	255.255.0	2	0	0	250
+1st			0.255.255		-10		
+2nd		goudy stout					
+3rd	750			1	10		

@@ -1,0 +1,335 @@
+Scenario - passive press generic training 1.2
+Logfile written - 07/06/2021 14:00:41
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Picture	83	166	0	1	5005	2	0	4950	other	0
+test	1	Picture	82	10176	10010	1	5005	2	9950	4950	other	0
+test	1	Picture	81	20186	20020	1	5005	2	19950	4950	other	0
+test	1	Picture	80	30196	30030	1	5005	2	29950	4950	other	0
+test	1	Picture	81	40205	40039	2	10010	3	39950	9950	other	0
+test	1	Port Input	14	46062	45896	1
+test	1	Port Input	15	46062	45896	1
+test	1	Response	100	46062	45896	1
+test	1	Port Input	14	46063	45897	1
+test	1	Port Input	15	46063	45897	1
+test	1	Port Input	14	46063	45897	1
+test	1	Port Input	15	46063	45897	1
+test	1	Port Input	14	46063	45897	1
+test	1	Port Input	15	46063	45897	1
+test	1	Port Input	14	46063	45897	1
+test	1	Port Input	15	46064	45898	1
+test	1	Port Input	14	46064	45898	1
+test	1	Port Input	15	46064	45898	1
+test	1	Port Input	14	46064	45898	1
+test	1	Port Input	15	46064	45898	1
+test	1	Port Input	14	46064	45898	1
+test	1	Port Input	15	46064	45898	1
+test	1	Port Input	14	46064	45898	1
+test	1	Port Input	15	46064	45898	1
+test	1	Port Input	14	46064	45898	1
+test	1	Port Input	15	46065	45899	1
+test	1	Port Input	14	46065	45899	1
+test	1	Port Input	15	46065	45899	2
+test	1	Port Input	14	46066	45900	1
+test	1	Port Input	15	46066	45900	1
+test	1	Port Input	14	46066	45900	1
+test	1	Port Input	15	46066	45900	1
+test	1	Port Input	14	46066	45900	1
+test	1	Port Input	15	46066	45900	1
+test	1	Port Input	14	46066	45900	1
+test	1	Port Input	15	46066	45900	1
+test	1	Port Input	14	46066	45900	1
+test	1	Port Input	15	46066	45900	1
+test	1	Port Input	14	46066	45900	1
+test	1	Port Input	15	46066	45900	2
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	1
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	1
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	1
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	1
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	1
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	1
+test	1	Port Input	14	46067	45901	1
+test	1	Port Input	15	46067	45901	2
+test	1	Port Input	14	46068	45902	1
+test	1	Port Input	15	46068	45902	1
+test	1	Port Input	14	46068	45902	1
+test	1	Port Input	15	46068	45902	1
+test	1	Port Input	14	46068	45902	1
+test	1	Port Input	15	46068	45902	1
+test	1	Port Input	14	46068	45902	1
+test	1	Port Input	15	46068	45902	1
+test	1	Port Input	14	46068	45902	1
+test	1	Port Input	15	46068	45902	1
+test	1	Port Input	14	46068	45902	2
+test	1	Port Input	15	46069	45903	1
+test	1	Port Input	14	46069	45903	1
+test	1	Port Input	15	46069	45903	1
+test	1	Port Input	14	46069	45903	1
+test	1	Port Input	15	46069	45903	1
+test	1	Port Input	14	46069	45903	1
+test	1	Port Input	15	46069	45903	1
+test	1	Port Input	14	46069	45903	1
+test	1	Port Input	15	46069	45903	1
+test	1	Port Input	14	46070	45904	1
+test	1	Port Input	15	46070	45904	1
+test	1	Port Input	14	46070	45904	1
+test	1	Port Input	15	46070	45904	1
+test	1	Port Input	14	46070	45904	1
+test	1	Port Input	15	46070	45904	1
+test	1	Port Input	14	46070	45904	1
+test	1	Port Input	15	46070	45904	1
+test	1	Port Input	14	46070	45904	1
+test	1	Port Input	15	46070	45904	2
+test	1	Port Input	14	46071	45905	1
+test	1	Port Input	15	47659	47493	1
+test	1	Port Input	14	47659	47493	1
+test	1	Port Input	15	47659	47493	1
+test	1	Port Input	14	47659	47493	1
+test	1	Port Input	15	47659	47493	1
+test	1	Port Input	14	47659	47493	1
+test	1	Port Input	15	47660	47494	1
+test	1	Port Input	14	47660	47494	1
+test	1	Port Input	15	47660	47494	1
+test	1	Port Input	14	47660	47494	1
+test	1	Port Input	15	47660	47494	1
+test	1	Port Input	14	47660	47494	1
+test	1	Port Input	15	47660	47494	1
+test	1	Port Input	14	47660	47494	1
+test	1	Port Input	15	47660	47494	1
+test	1	Port Input	14	47661	47495	1
+test	1	Port Input	15	47670	47504	1
+test	1	Picture	81	60225	60059	1	10010	2	59950	9950	other	0
+test	1	Port Input	14	61937	61771	1
+test	1	Port Input	15	61937	61771	1
+test	1	Port Input	14	61937	61771	1
+test	1	Port Input	15	61937	61771	2
+test	1	Response	100	61937	61771	1
+test	1	Port Input	14	61938	61772	1
+test	1	Port Input	15	61938	61772	1
+test	1	Port Input	14	61938	61772	1
+test	1	Port Input	15	61938	61772	1
+test	1	Port Input	14	61938	61772	1
+test	1	Port Input	15	61938	61772	1
+test	1	Port Input	14	61939	61773	1
+test	1	Port Input	15	61939	61773	1
+test	1	Port Input	14	61939	61773	1
+test	1	Port Input	15	61939	61773	1
+test	1	Port Input	14	61939	61773	1
+test	1	Port Input	15	64818	64652	1
+test	1	Port Input	14	79659	79493	1
+test	1	Response	100	79659	79493	1
+test	1	Port Input	15	79660	79494	1
+test	1	Port Input	14	79660	79494	1
+test	1	Port Input	15	79662	79496	1
+test	1	Port Input	14	79662	79496	1
+test	1	Port Input	15	79663	79497	1
+test	1	Port Input	14	79663	79497	1
+test	1	Port Input	15	79663	79497	1
+test	1	Port Input	14	79664	79498	1
+test	1	Port Input	15	79664	79498	1
+test	1	Port Input	14	79664	79498	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79665	79499	1
+test	1	Port Input	14	79665	79499	1
+test	1	Port Input	15	79666	79500	1
+test	1	Port Input	14	79666	79500	1
+test	1	Port Input	15	79666	79500	1
+test	1	Port Input	14	79666	79500	1
+test	1	Picture	81	80245	80079	1	10009	3	79950	9950	other	0
+test	1	Port Input	15	82897	82731	1
+test	1	Port Input	14	82897	82731	1
+test	1	Port Input	15	82897	82731	1
+test	1	Port Input	14	82897	82731	1
+test	1	Port Input	15	82897	82731	1
+test	1	Port Input	14	82897	82731	1
+test	1	Port Input	15	82898	82732	1
+test	1	Port Input	14	82898	82732	1
+test	1	Port Input	15	82898	82732	1
+test	1	Port Input	14	82898	82732	1
+test	1	Port Input	15	82898	82732	1
+test	1	Port Input	14	82898	82732	1
+test	1	Port Input	15	82898	82732	1
+test	1	Port Input	14	82898	82732	1
+test	1	Port Input	15	82898	82732	1
+test	1	Port Input	14	82898	82732	1
+test	1	Port Input	15	82899	82733	1
+test	1	Port Input	14	82899	82733	1
+test	1	Port Input	15	82899	82733	1
+test	1	Port Input	14	82899	82733	1
+test	1	Port Input	15	82900	82734	1
+test	1	Port Input	14	82900	82734	1
+test	1	Port Input	15	82900	82734	1
+test	1	Port Input	14	82900	82734	1
+test	1	Port Input	15	82901	82735	1
+test	1	Port Input	14	82901	82735	1
+test	1	Port Input	15	82902	82736	1
+test	1	Port Input	14	82902	82736	1
+test	1	Port Input	15	82902	82736	1
+test	1	Port Input	14	82902	82736	1
+test	1	Port Input	15	82902	82736	1
+test	1	Port Input	14	82902	82736	1
+test	1	Port Input	15	82902	82736	1
+test	1	Port Input	14	82902	82736	1
+test	1	Port Input	15	82902	82736	1
+test	1	Port Input	14	82902	82736	1
+test	1	Port Input	15	82903	82737	1
+test	1	Port Input	14	82903	82737	1
+test	1	Port Input	15	82903	82737	1
+test	1	Port Input	14	82903	82737	1
+test	1	Port Input	15	82903	82737	1
+test	1	Port Input	14	82903	82737	1
+test	1	Port Input	15	82903	82737	1
+test	1	Port Input	14	82903	82737	1
+test	1	Port Input	15	82903	82737	1
+test	1	Port Input	14	82904	82738	1
+test	1	Port Input	15	82904	82738	1
+test	1	Port Input	14	82904	82738	1
+test	1	Port Input	15	82904	82738	1
+test	1	Port Input	14	82904	82738	1
+test	1	Port Input	15	82904	82738	1
+test	1	Port Input	14	82904	82738	1
+test	1	Port Input	15	82904	82738	1
+test	1	Port Input	14	82904	82738	1
+test	1	Port Input	15	82904	82738	1
+test	1	Port Input	14	82905	82739	1
+test	1	Port Input	15	82905	82739	1
+test	1	Port Input	14	82905	82739	1
+test	1	Port Input	15	82905	82739	1
+test	1	Port Input	14	82905	82739	1
+test	1	Port Input	15	82905	82739	1
+test	2	Port Input	14	99475	9054	1
+test	2	Port Input	15	99475	9054	1
+test	2	Port Input	14	99475	9054	4
+test	2	Response	100	99475	9054	1
+test	3	Port Input	15	102922	3325	1
+test	3	Port Input	14	102922	3325	1
+test	3	Port Input	15	102922	3325	1
+test	3	Port Input	14	119809	20212	3
+test	3	Response	100	119809	20212	3
+test	3	Port Input	15	119811	20214	1
+test	3	Port Input	14	119811	20214	1
+test	4	Port Input	15	123193	3243	3
+test	4	Port Input	14	138508	18558	3
+test	4	Response	100	138508	18558	4
+test	4	Port Input	15	138510	18560	2
+test	4	Port Input	14	138511	18561	3
+test	5	Port Input	15	141709	3074	3
+test	5	Port Input	14	156475	17840	3
+test	5	Response	100	156475	17840	3
+test	6	Port Input	15	159805	3152	3
+test	6	Port Input	14	175480	18827	3
+test	6	Response	100	175480	18827	3
+test	7	Port Input	15	178539	3034	4
+test	7	Port Input	14	198511	23006	4
+test	7	Response	100	198511	23006	4
+test	8	Port Input	15	200553	1859	3
+test	8	Port Input	14	220928	22234	3
+test	8	Response	100	220928	22234	3
+test	9	Port Input	15	223066	2017	4
+test	9	Port Input	14	244481	23432	4
+test	9	Response	100	244481	23432	4
+test	10	Port Input	15	246337	1765	4
+test	10	Port Input	14	260699	16127	3
+test	10	Response	100	260699	16127	3
+test	11	Port Input	15	262464	1709	4
+test	11	Port Input	14	277652	16897	3
+test	11	Response	100	277652	16897	3
+test	12	Port Input	15	279246	1474	1
+test	12	Port Input	14	295838	18066	4
+test	12	Response	100	295838	18066	4
+test	13	Port Input	15	297445	1489	4
+test	13	Port Input	14	315556	19600	4
+test	13	Response	100	315556	19600	4
+test	14	Port Input	15	316980	1338	4
+test	14	Port Input	14	332772	17130	4
+test	14	Response	100	332772	17130	4
+test	15	Port Input	15	334117	1291	4
+test	15	Port Input	14	377862	45036	5
+test	15	Response	100	377862	45036	5
+test	16	Port Input	15	379237	1200	4
+test	16	Port Input	14	411508	33471	3
+test	16	Response	100	411508	33471	3
+test	17	Port Input	15	412941	1372	4
+test	17	Port Input	14	433338	21769	4
+test	17	Response	100	433338	21769	4
+test	18	Port Input	15	434677	1253	4
+test	18	Port Input	14	452637	19213	1
+test	18	Response	100	452637	19213	2
+test	19	Port Input	15	454091	1314	4
+test	19	Port Input	14	472852	20075	4
+test	19	Response	100	472852	20075	4
+test	20	Port Input	15	474610	1647	1
+test	20	Port Input	14	474610	1647	2
+test	20	Port Input	15	474614	1651	4
+test	20	Port Input	14	474620	1657	1
+test	20	Port Input	15	474620	1657	5
+test	20	Port Input	14	493512	20549	1
+test	20	Response	100	493512	20549	1
+test	21	Port Input	15	494939	1289	4
+test	21	Port Input	14	514297	20647	4
+test	21	Response	100	514297	20647	4
+test	21	Port Input	15	514300	20650	1
+test	21	Port Input	14	514300	20650	4
+test	22	Port Input	15	516091	1754	4
+test	22	Port Input	14	538120	23783	4
+test	22	Response	100	538120	23783	4
+test	23	Port Input	15	540184	1990	1
+test	23	Port Input	14	559133	20939	3
+test	23	Response	100	559133	20939	3
+test	24	Port Input	15	560976	1762	4
+test	24	Port Input	14	581413	22199	4
+test	24	Response	100	581413	22199	4
+test	25	Port Input	15	583588	2018	4
+test	25	Port Input	14	583591	2021	1
+test	25	Port Input	15	583591	2021	4
+test	25	Port Input	14	607511	25941	4
+test	25	Response	100	607511	25941	4
+test	25	Port Input	15	607514	25944	1
+test	25	Port Input	14	607514	25944	4
+test	26	Port Input	15	609133	1538	3
+test	26	Port Input	14	628413	20818	4
+test	26	Response	100	628413	20818	4
+test	27	Port Input	15	630010	1561	4
+test	27	Port Input	14	650055	21606	1
+test	27	Port Input	15	650055	21606	1
+test	27	Port Input	14	650055	21606	4
+test	27	Response	100	650055	21606	1
+test	28	Port Input	15	652427	2291	5
+test	28	Port Input	14	671291	21155	4
+test	28	Response	100	671291	21155	4
+test	29	Port Input	15	673595	2271	4
+test	29	Port Input	14	692301	20977	1
+test	29	Response	100	692301	20977	2
+test	30	Port Input	15	694928	2583	1
+test	30	Port Input	14	694928	2583	1
+test	30	Port Input	15	694934	2589	2
+test	30	Port Input	14	694935	2590	3
+test	30	Port Input	15	694944	2599	3
+test	30	Port Input	14	714779	22434	3
+test	30	Response	100	714779	22434	4
+test	30	Port Input	15	714781	22436	2
+test	30	Port Input	14	714782	22437	1
+test	30	Port Input	15	714782	22437	1
+test	30	Port Input	14	714782	22437	4

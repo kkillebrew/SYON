@@ -1,0 +1,14 @@
+Scenario - Push Button + tone (0ms)
+Logfile written - 07/25/2023 11:55:41
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+S3115107	1	Picture	start	69	0	1	40554	1	0	next	other	0
+S3115107	3	Nothing	nothing	45124	0	0			0		hit	4
+S3115107	3	Port Input	14	261060	215936	1
+S3115107	3	Response	222	261060	215936	1
+S3115107	3	Port Input	15	261060	215936	1
+S3115107	3	Port Input	14	261060	215937	1
+S3115107	4	Sound	20	261073	0	279			0		miss	0
+S3115107	4	Port Input	15	264367	3294	1
+S3115107	4	Quit		415717	154643	NA

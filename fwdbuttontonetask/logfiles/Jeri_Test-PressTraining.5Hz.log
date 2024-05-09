@@ -1,0 +1,22 @@
+Scenario - passive press generic training 1.2
+Logfile written - 07/14/2021 14:40:41
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Jeri_Test	1	Picture	83	166	0	5	5005	6	0	4950	other	0
+Jeri_Test	1	Picture	82	10176	10010	1	5005	2	9950	4950	other	0
+Jeri_Test	1	Picture	81	20186	20020	1	5004	3	19950	4950	other	0
+Jeri_Test	1	Picture	80	30195	30029	1	5005	2	29950	4950	other	0
+Jeri_Test	1	Picture	81	40205	40039	1	10010	2	39950	9950	other	0
+Jeri_Test	1	Picture	81	60224	60058	2	10010	3	59950	9950	other	0
+Jeri_Test	1	Picture	81	80244	80078	1	10009	3	79950	9950	other	0
+Jeri_Test	1	Port Input	14	82828	82662	1
+Jeri_Test	1	Response	100	82828	82662	2
+Jeri_Test	1	Port Input	15	85699	85533	1
+Jeri_Test	1	Port Input	14	85699	85533	1
+Jeri_Test	1	Port Input	15	85699	85533	1
+Jeri_Test	1	Port Input	14	85699	85533	1
+Jeri_Test	1	Port Input	15	85700	85534	1
+Jeri_Test	1	Port Input	14	85700	85534	1
+Jeri_Test	1	Port Input	15	85701	85535	1
+Jeri_Test	2	Quit		168850	78430

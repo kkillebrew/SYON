@@ -1,0 +1,223 @@
+Scenario - passive press generic training 1.2
+Logfile written - 07/14/2021 14:46:44
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Jeri_Pilot	1	Picture	83	166	0	1	5005	2	0	4950	other	0
+Jeri_Pilot	1	Picture	82	10176	10010	1	5005	2	9950	4950	other	0
+Jeri_Pilot	1	Picture	81	20186	20020	1	5004	3	19950	4950	other	0
+Jeri_Pilot	1	Picture	80	30195	30029	1	5005	2	29950	4950	other	0
+Jeri_Pilot	1	Picture	81	40205	40039	1	10010	2	39950	9950	other	0
+Jeri_Pilot	1	Port Input	14	43605	43439	1
+Jeri_Pilot	1	Port Input	15	43605	43439	1
+Jeri_Pilot	1	Response	100	43605	43439	1
+Jeri_Pilot	1	Port Input	14	43609	43443	1
+Jeri_Pilot	1	Port Input	15	43609	43443	1
+Jeri_Pilot	1	Port Input	14	43609	43443	1
+Jeri_Pilot	1	Port Input	15	43610	43444	1
+Jeri_Pilot	1	Port Input	14	43610	43444	1
+Jeri_Pilot	1	Port Input	15	43610	43444	1
+Jeri_Pilot	1	Port Input	14	43610	43444	1
+Jeri_Pilot	1	Port Input	15	43610	43444	1
+Jeri_Pilot	1	Port Input	14	43610	43444	1
+Jeri_Pilot	1	Port Input	15	46534	46368	1
+Jeri_Pilot	1	Picture	81	60224	60058	2	10010	3	59950	9950	other	0
+Jeri_Pilot	1	Port Input	14	62223	62057	1
+Jeri_Pilot	1	Port Input	15	62223	62057	1
+Jeri_Pilot	1	Port Input	14	62223	62057	1
+Jeri_Pilot	1	Port Input	15	62223	62057	1
+Jeri_Pilot	1	Port Input	14	62223	62057	1
+Jeri_Pilot	1	Port Input	15	62223	62057	1
+Jeri_Pilot	1	Port Input	14	62223	62057	2
+Jeri_Pilot	1	Response	100	62223	62057	1
+Jeri_Pilot	1	Port Input	15	62224	62058	1
+Jeri_Pilot	1	Port Input	14	62224	62058	1
+Jeri_Pilot	1	Port Input	15	62224	62058	1
+Jeri_Pilot	1	Port Input	14	62224	62058	1
+Jeri_Pilot	1	Port Input	15	62224	62058	1
+Jeri_Pilot	1	Port Input	14	62224	62058	1
+Jeri_Pilot	1	Port Input	15	62225	62059	1
+Jeri_Pilot	1	Port Input	14	62225	62059	1
+Jeri_Pilot	1	Port Input	15	62225	62059	1
+Jeri_Pilot	1	Port Input	14	62225	62059	1
+Jeri_Pilot	1	Port Input	15	62225	62059	1
+Jeri_Pilot	1	Port Input	14	62225	62059	1
+Jeri_Pilot	1	Port Input	15	62225	62059	1
+Jeri_Pilot	1	Port Input	14	62226	62060	1
+Jeri_Pilot	1	Port Input	15	62226	62060	1
+Jeri_Pilot	1	Port Input	14	62226	62060	1
+Jeri_Pilot	1	Port Input	15	62226	62060	1
+Jeri_Pilot	1	Port Input	14	62226	62060	1
+Jeri_Pilot	1	Port Input	15	62226	62060	1
+Jeri_Pilot	1	Port Input	14	62226	62060	2
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	62227	62061	1
+Jeri_Pilot	1	Port Input	14	62227	62061	1
+Jeri_Pilot	1	Port Input	15	64816	64650	1
+Jeri_Pilot	1	Port Input	14	64816	64650	1
+Jeri_Pilot	1	Port Input	15	64816	64650	1
+Jeri_Pilot	1	Port Input	14	64816	64650	1
+Jeri_Pilot	1	Port Input	15	64817	64651	1
+Jeri_Pilot	1	Port Input	14	64817	64651	1
+Jeri_Pilot	1	Port Input	15	64817	64651	1
+Jeri_Pilot	1	Picture	81	80244	80078	1	10010	2	79950	9950	other	0
+Jeri_Pilot	1	Port Input	14	83184	83018	1
+Jeri_Pilot	1	Port Input	15	83184	83018	1
+Jeri_Pilot	1	Response	100	83184	83018	1
+Jeri_Pilot	1	Port Input	14	83185	83019	1
+Jeri_Pilot	1	Port Input	15	83185	83019	1
+Jeri_Pilot	1	Port Input	14	83186	83020	1
+Jeri_Pilot	1	Port Input	15	83186	83020	1
+Jeri_Pilot	1	Port Input	14	83187	83021	1
+Jeri_Pilot	1	Port Input	15	83187	83021	1
+Jeri_Pilot	1	Port Input	14	83188	83022	1
+Jeri_Pilot	1	Port Input	15	83188	83022	1
+Jeri_Pilot	1	Port Input	14	83189	83023	1
+Jeri_Pilot	1	Port Input	15	83189	83023	1
+Jeri_Pilot	1	Port Input	14	83198	83032	1
+Jeri_Pilot	1	Port Input	15	83198	83032	1
+Jeri_Pilot	1	Port Input	14	83198	83032	1
+Jeri_Pilot	1	Port Input	15	83198	83032	1
+Jeri_Pilot	1	Port Input	14	83198	83032	1
+Jeri_Pilot	1	Port Input	15	83198	83032	1
+Jeri_Pilot	1	Port Input	14	83198	83032	1
+Jeri_Pilot	1	Port Input	15	83204	83038	1
+Jeri_Pilot	1	Port Input	14	83204	83038	1
+Jeri_Pilot	1	Port Input	15	83204	83038	1
+Jeri_Pilot	1	Port Input	14	83204	83038	1
+Jeri_Pilot	1	Port Input	15	83204	83038	1
+Jeri_Pilot	1	Port Input	14	83204	83038	1
+Jeri_Pilot	1	Port Input	15	83204	83038	1
+Jeri_Pilot	1	Port Input	14	83204	83038	1
+Jeri_Pilot	1	Port Input	15	83205	83039	1
+Jeri_Pilot	1	Port Input	14	83205	83039	1
+Jeri_Pilot	1	Port Input	15	83205	83039	1
+Jeri_Pilot	1	Port Input	14	83206	83040	1
+Jeri_Pilot	1	Port Input	15	83207	83041	1
+Jeri_Pilot	1	Port Input	14	83207	83041	1
+Jeri_Pilot	1	Port Input	15	83208	83042	1
+Jeri_Pilot	1	Port Input	14	83208	83042	1
+Jeri_Pilot	1	Port Input	15	83209	83043	1
+Jeri_Pilot	1	Port Input	14	83209	83043	1
+Jeri_Pilot	1	Port Input	15	83209	83043	1
+Jeri_Pilot	1	Port Input	14	83209	83043	1
+Jeri_Pilot	1	Port Input	15	83210	83044	1
+Jeri_Pilot	1	Port Input	14	83210	83044	1
+Jeri_Pilot	1	Port Input	15	83212	83046	1
+Jeri_Pilot	1	Port Input	14	83212	83046	1
+Jeri_Pilot	1	Port Input	15	83213	83047	1
+Jeri_Pilot	1	Port Input	14	83213	83047	1
+Jeri_Pilot	1	Port Input	15	83215	83049	1
+Jeri_Pilot	1	Port Input	14	83215	83049	1
+Jeri_Pilot	1	Port Input	15	86506	86340	1
+Jeri_Pilot	1	Port Input	14	86506	86340	1
+Jeri_Pilot	1	Port Input	15	86507	86341	1
+Jeri_Pilot	1	Port Input	14	86507	86341	1
+Jeri_Pilot	1	Port Input	15	86507	86341	1
+Jeri_Pilot	1	Port Input	14	86507	86341	1
+Jeri_Pilot	1	Port Input	15	86508	86342	1
+Jeri_Pilot	1	Port Input	14	86508	86342	1
+Jeri_Pilot	1	Port Input	15	86508	86342	1
+Jeri_Pilot	1	Port Input	14	86508	86342	1
+Jeri_Pilot	1	Port Input	15	86508	86342	1
+Jeri_Pilot	1	Port Input	14	86508	86342	2
+Jeri_Pilot	1	Port Input	15	86509	86343	1
+Jeri_Pilot	1	Port Input	14	86509	86343	1
+Jeri_Pilot	1	Port Input	15	86509	86343	1
+Jeri_Pilot	1	Port Input	14	86509	86343	1
+Jeri_Pilot	1	Port Input	15	86509	86343	1
+Jeri_Pilot	1	Port Input	14	86509	86343	1
+Jeri_Pilot	1	Port Input	15	86509	86343	1
+Jeri_Pilot	1	Port Input	14	86509	86343	2
+Jeri_Pilot	1	Port Input	15	86510	86344	1
+Jeri_Pilot	1	Port Input	14	86510	86344	1
+Jeri_Pilot	1	Port Input	15	86510	86344	1
+Jeri_Pilot	1	Port Input	14	86510	86344	1
+Jeri_Pilot	1	Port Input	15	86510	86344	1
+Jeri_Pilot	1	Port Input	14	86510	86344	1
+Jeri_Pilot	1	Port Input	15	86510	86344	1
+Jeri_Pilot	1	Port Input	14	86510	86344	1
+Jeri_Pilot	1	Port Input	15	86510	86344	1
+Jeri_Pilot	1	Port Input	14	86510	86344	1
+Jeri_Pilot	1	Port Input	15	86510	86344	2
+Jeri_Pilot	1	Port Input	14	86511	86345	1
+Jeri_Pilot	1	Port Input	15	86511	86345	1
+Jeri_Pilot	2	Port Input	14	99185	8765	4
+Jeri_Pilot	2	Response	100	99185	8765	4
+Jeri_Pilot	3	Port Input	15	102381	3119	5
+Jeri_Pilot	3	Port Input	14	117511	18249	1
+Jeri_Pilot	3	Response	100	117511	18249	1
+Jeri_Pilot	4	Port Input	15	121169	3556	4
+Jeri_Pilot	4	Port Input	14	136697	19084	4
+Jeri_Pilot	4	Response	100	136697	19084	4
+Jeri_Pilot	4	Port Input	15	136701	19088	4
+Jeri_Pilot	4	Port Input	14	136704	19091	1
+Jeri_Pilot	4	Port Input	15	136704	19091	1
+Jeri_Pilot	4	Port Input	14	136705	19092	4
+Jeri_Pilot	4	Port Input	15	136709	19096	1
+Jeri_Pilot	4	Port Input	14	136709	19096	1
+Jeri_Pilot	4	Port Input	15	136709	19096	1
+Jeri_Pilot	4	Port Input	14	136709	19096	1
+Jeri_Pilot	4	Port Input	15	136709	19096	2
+Jeri_Pilot	4	Port Input	14	136710	19097	1
+Jeri_Pilot	4	Port Input	15	136710	19097	1
+Jeri_Pilot	4	Port Input	14	136710	19097	1
+Jeri_Pilot	5	Port Input	15	139842	3043	4
+Jeri_Pilot	5	Port Input	14	152706	15907	4
+Jeri_Pilot	5	Response	100	152706	15907	4
+Jeri_Pilot	5	Port Input	15	152709	15910	1
+Jeri_Pilot	5	Port Input	14	152709	15910	1
+Jeri_Pilot	5	Port Input	15	152712	15913	1
+Jeri_Pilot	5	Port Input	14	152712	15913	1
+Jeri_Pilot	6	Port Input	15	155398	2584	4
+Jeri_Pilot	6	Port Input	14	167743	14929	4
+Jeri_Pilot	6	Response	100	167743	14929	4
+Jeri_Pilot	7	Port Input	15	170893	3064	4
+Jeri_Pilot	7	Port Input	14	182788	14959	4
+Jeri_Pilot	7	Response	100	182788	14959	4
+Jeri_Pilot	8	Port Input	15	185169	2326	4
+Jeri_Pilot	8	Port Input	14	185172	2329	1
+Jeri_Pilot	8	Port Input	15	185175	2332	2
+Jeri_Pilot	8	Port Input	14	185176	2333	4
+Jeri_Pilot	8	Port Input	15	185179	2336	1
+Jeri_Pilot	8	Port Input	14	197531	14688	4
+Jeri_Pilot	8	Response	100	197531	14688	4
+Jeri_Pilot	8	Port Input	15	197538	14695	1
+Jeri_Pilot	8	Port Input	14	197538	14695	1
+Jeri_Pilot	9	Port Input	15	201690	3999	4
+Jeri_Pilot	9	Port Input	14	213464	15773	4
+Jeri_Pilot	9	Response	100	213464	15773	4
+Jeri_Pilot	10	Port Input	15	216950	3410	4
+Jeri_Pilot	10	Port Input	14	228720	15180	4
+Jeri_Pilot	10	Response	100	228720	15180	4
+Jeri_Pilot	11	Port Input	15	232808	3920	4
+Jeri_Pilot	11	Port Input	14	232811	3923	1
+Jeri_Pilot	11	Port Input	15	232811	3923	4
+Jeri_Pilot	11	Port Input	14	245750	16862	1
+Jeri_Pilot	11	Port Input	15	245750	16862	1
+Jeri_Pilot	11	Response	100	245750	16862	1
+Jeri_Pilot	11	Port Input	14	245758	16870	13
+Jeri_Pilot	12	Port Input	15	248913	3009	4
+Jeri_Pilot	12	Port Input	14	261589	15685	5
+Jeri_Pilot	12	Response	100	261589	15685	5
+Jeri_Pilot	13	Port Input	15	264993	3240	4
+Jeri_Pilot	13	Port Input	14	275393	13640	4
+Jeri_Pilot	13	Response	100	275393	13640	4
+Jeri_Pilot	14	Port Input	15	278070	2637	4
+Jeri_Pilot	14	Port Input	14	291800	16367	5
+Jeri_Pilot	14	Response	100	291800	16367	5
+Jeri_Pilot	14	Port Input	15	291807	16374	1
+Jeri_Pilot	14	Port Input	14	291807	16374	1
+Jeri_Pilot	14	Port Input	15	291808	16375	1
+Jeri_Pilot	14	Port Input	14	291808	16375	2

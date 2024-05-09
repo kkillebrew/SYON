@@ -1,0 +1,102 @@
+Scenario - Push Button + tone (0ms)
+Logfile written - 07/14/2021 15:13:59
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Jeri_Pilot	1	Picture	start	166	0	1	40539	2	0	next	other	0
+Jeri_Pilot	3	Nothing	nothing	45205	0	1			0		hit	4
+Jeri_Pilot	3	Port Input	14	45331	126	1
+Jeri_Pilot	3	Response	222	45331	126	1
+Jeri_Pilot	4	Sound	20	45332	0	1			0		hit	33
+Jeri_Pilot	4	Port Input	15	45340	8	1
+Jeri_Pilot	4	Port Input	14	45340	8	1
+Jeri_Pilot	4	Port Input	15	45340	8	1
+Jeri_Pilot	4	Port Input	14	45340	8	1
+Jeri_Pilot	4	Port Input	15	45341	9	1
+Jeri_Pilot	4	Port Input	14	45341	9	1
+Jeri_Pilot	4	Port Input	15	45341	9	1
+Jeri_Pilot	4	Port Input	14	45341	9	1
+Jeri_Pilot	4	Port Input	15	45341	9	1
+Jeri_Pilot	4	Port Input	14	45341	9	1
+Jeri_Pilot	4	Port Input	15	45341	9	2
+Jeri_Pilot	4	Port Input	14	45341	9	2
+Jeri_Pilot	4	Port Input	15	45342	10	1
+Jeri_Pilot	4	Port Input	14	45342	10	1
+Jeri_Pilot	4	Port Input	15	45343	11	1
+Jeri_Pilot	4	Port Input	14	45343	11	1
+Jeri_Pilot	4	Port Input	15	45344	12	1
+Jeri_Pilot	4	Port Input	14	45344	12	1
+Jeri_Pilot	4	Port Input	15	47205	1873	1
+Jeri_Pilot	4	Port Input	14	47205	1873	1
+Jeri_Pilot	4	Port Input	15	47484	2152	1
+Jeri_Pilot	4	Port Input	14	47484	2152	1
+Jeri_Pilot	4	Port Input	15	47485	2153	1
+Jeri_Pilot	4	Port Input	14	47485	2153	1
+Jeri_Pilot	4	Port Input	15	47485	2153	2
+Jeri_Pilot	4	Port Input	14	58151	12819	1
+Jeri_Pilot	4	Port Input	15	58151	12819	2
+Jeri_Pilot	4	Response	222	58151	12819	1
+Jeri_Pilot	5	Port Input	14	58152	0	1
+Jeri_Pilot	5	Port Input	15	58152	0	1
+Jeri_Pilot	5	Port Input	14	58152	0	1
+Jeri_Pilot	5	Port Input	15	58152	0	1
+Jeri_Pilot	5	Sound	20	58152	0	2			0		hit	79
+Jeri_Pilot	5	Port Input	14	58153	1	1
+Jeri_Pilot	5	Port Input	15	58153	1	1
+Jeri_Pilot	5	Port Input	14	58153	1	1
+Jeri_Pilot	5	Port Input	15	58153	1	1
+Jeri_Pilot	5	Port Input	14	58153	1	1
+Jeri_Pilot	5	Port Input	15	58153	1	1
+Jeri_Pilot	5	Port Input	14	58153	1	1
+Jeri_Pilot	5	Port Input	15	58153	1	1
+Jeri_Pilot	5	Port Input	14	58153	1	1
+Jeri_Pilot	5	Port Input	15	58153	1	1
+Jeri_Pilot	5	Port Input	14	58153	1	1
+Jeri_Pilot	5	Port Input	15	58154	2	1
+Jeri_Pilot	5	Port Input	14	58154	2	1
+Jeri_Pilot	5	Port Input	15	58154	2	1
+Jeri_Pilot	5	Port Input	14	58154	2	1
+Jeri_Pilot	5	Port Input	15	58154	2	1
+Jeri_Pilot	5	Port Input	14	58154	2	1
+Jeri_Pilot	5	Port Input	15	58154	2	1
+Jeri_Pilot	5	Port Input	14	58154	2	1
+Jeri_Pilot	5	Port Input	15	58154	2	1
+Jeri_Pilot	5	Port Input	14	58154	2	1
+Jeri_Pilot	5	Port Input	15	58155	3	1
+Jeri_Pilot	5	Port Input	14	58155	3	1
+Jeri_Pilot	5	Port Input	15	58155	3	1
+Jeri_Pilot	5	Port Input	14	58155	3	1
+Jeri_Pilot	5	Port Input	15	60169	2017	1
+Jeri_Pilot	5	Port Input	14	60169	2017	1
+Jeri_Pilot	5	Port Input	15	60169	2017	1
+Jeri_Pilot	5	Port Input	14	60169	2017	1
+Jeri_Pilot	5	Port Input	15	60170	2018	1
+Jeri_Pilot	5	Port Input	14	60170	2018	1
+Jeri_Pilot	5	Port Input	15	60170	2018	1
+Jeri_Pilot	5	Port Input	14	60170	2018	1
+Jeri_Pilot	5	Port Input	15	60170	2018	1
+Jeri_Pilot	5	Port Input	14	60170	2018	2
+Jeri_Pilot	5	Port Input	15	60171	2019	1
+Jeri_Pilot	5	Port Input	14	60171	2019	1
+Jeri_Pilot	5	Port Input	15	60171	2019	1
+Jeri_Pilot	5	Port Input	14	70606	12454	1
+Jeri_Pilot	5	Port Input	15	70606	12454	1
+Jeri_Pilot	5	Response	222	70606	12454	1
+Jeri_Pilot	6	Port Input	14	70607	0	2
+Jeri_Pilot	6	Sound	20	70607	0	1			0		miss	0
+Jeri_Pilot	6	Port Input	15	70608	1	1
+Jeri_Pilot	6	Port Input	14	70608	1	1
+Jeri_Pilot	6	Port Input	15	70608	1	1
+Jeri_Pilot	6	Port Input	14	70608	1	1
+Jeri_Pilot	6	Port Input	15	70608	1	1
+Jeri_Pilot	6	Port Input	14	70608	1	1
+Jeri_Pilot	6	Port Input	15	70609	2	1
+Jeri_Pilot	6	Port Input	14	70609	2	1
+Jeri_Pilot	6	Port Input	15	70610	3	1
+Jeri_Pilot	6	Port Input	14	70610	3	1
+Jeri_Pilot	6	Port Input	15	70610	3	1
+Jeri_Pilot	6	Port Input	14	70610	3	1
+Jeri_Pilot	6	Port Input	15	72704	2097	2
+Jeri_Pilot	6	Port Input	14	72704	2097	2
+Jeri_Pilot	6	Port Input	15	72705	2098	1
+Jeri_Pilot	6	Quit		117398	46791

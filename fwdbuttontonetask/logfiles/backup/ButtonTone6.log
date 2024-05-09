@@ -1,0 +1,209 @@
+Scenario - Push Button + tone (0ms)
+Logfile written - 10/08/2020 12:25:50
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	start	166	0	1	667	3	0	next	other	0
+3	Nothing	nothing	5333	0	1			0		hit	3
+3	Response	222	18611	13278	1
+4	Sound	20	18612	0	2			0		hit	6
+5	Sound	20	37571	0	3			0		hit	7
+5	Response	222	37571	0	1
+5	Response	222	52770	15199	1
+6	Sound	20	52771	0	2			0		hit	10
+7	Sound	20	64611	0	3			0		hit	12
+7	Response	222	64611	0	1
+8	Sound	20	67490	0	2			0		hit	13
+8	Response	222	67490	0	1
+8	Response	222	71010	3520	1
+9	Sound	20	71011	0	2			0		hit	15
+9	Response	222	73890	2879	1
+10	Sound	20	73891	0	2			0		hit	17
+10	Response	222	76930	3039	1
+11	Sound	20	76931	0	2			0		hit	19
+11	Response	222	91730	14799	1
+12	Sound	20	91731	0	2			0		hit	21
+12	Response	222	104850	13119	1
+13	Sound	20	104851	0	2			0		hit	23
+13	Response	222	115329	10478	1
+14	Sound	20	115330	0	2			0		hit	25
+14	Response	222	123089	7759	1
+15	Sound	20	123090	0	2			0		hit	28
+16	Sound	20	130690	0	2			0		hit	29
+16	Response	222	130690	0	1
+16	Response	222	138369	7679	2
+17	Sound	20	138370	0	2			0		hit	31
+17	Response	222	145969	7599	1
+18	Sound	20	145970	0	2			0		hit	34
+19	Sound	20	153889	0	2			0		hit	35
+19	Response	222	153889	0	1
+19	Response	222	162049	8160	1
+20	Sound	20	162050	0	2			0		hit	37
+20	Response	222	170288	8238	2
+21	Sound	20	170289	0	2			0		hit	40
+22	Sound	20	178369	0	2			0		hit	42
+22	Response	222	178369	0	1
+23	Sound	20	186449	0	3			0		hit	44
+23	Response	222	186449	0	1
+24	Sound	20	194049	0	2			0		hit	45
+24	Response	222	194049	0	1
+24	Response	222	200528	6479	1
+25	Sound	20	200529	0	2			0		hit	47
+25	Response	222	207248	6719	1
+26	Sound	20	207249	0	2			0		hit	49
+26	Response	222	217168	9919	1
+27	Sound	20	217169	0	2			0		hit	51
+27	Response	222	222128	4959	1
+28	Sound	20	222129	0	2			0		hit	54
+29	Sound	20	224528	0	3			0		hit	55
+29	Response	222	224528	0	1
+29	Response	222	226528	2000	1
+30	Sound	20	226529	0	2			0		hit	57
+30	Response	222	228288	1759	1
+31	Sound	20	228289	0	2			0		hit	59
+31	Response	222	230127	1838	2
+32	Sound	20	230128	0	2			0		hit	61
+32	Response	222	231967	1839	2
+33	Sound	20	231968	0	2			0		hit	63
+33	Response	222	233967	1999	2
+34	Sound	20	233968	0	2			0		hit	65
+34	Response	222	235567	1599	2
+35	Sound	20	235568	0	2			0		hit	67
+35	Response	222	237167	1599	1
+36	Sound	20	237168	0	2			0		hit	70
+37	Sound	20	238928	0	2			0		hit	72
+37	Response	222	238928	0	1
+38	Sound	20	240688	0	2			0		hit	73
+38	Response	222	240688	0	1
+38	Response	222	242287	1599	2
+39	Sound	20	242288	0	2			0		hit	75
+39	Response	222	251887	9599	2
+40	Sound	20	251888	0	2			0		hit	77
+40	Response	222	260927	9039	2
+41	Sound	20	260928	0	2			0		hit	79
+41	Response	222	271087	10159	1
+42	Sound	20	271088	0	2			0		hit	81
+42	Response	222	280687	9599	1
+43	Sound	20	280688	0	2			0		hit	83
+43	Response	222	289887	9199	1
+44	Sound	20	289888	0	2			0		hit	86
+45	Sound	20	299487	0	3			0		hit	87
+45	Response	222	299487	0	1
+45	Response	222	309166	9679	2
+46	Sound	20	309167	0	3			0		hit	90
+47	Sound	20	319087	0	3			0		hit	91
+47	Response	222	319087	0	1
+47	Response	222	328926	9839	1
+48	Sound	20	328927	0	2			0		hit	93
+48	Response	222	336046	7119	2
+49	Sound	20	336047	0	2			0		hit	95
+49	Response	222	338526	2479	1
+50	Sound	20	338527	0	2			0		hit	98
+51	Sound	20	340606	0	2			0		hit	100
+51	Response	222	340606	0	1
+52	Sound	20	342766	0	2			0		hit	102
+52	Response	222	342766	0	1
+53	Sound	20	344686	0	3			0		hit	104
+53	Response	222	344686	0	1
+54	Sound	20	346926	0	3			0		hit	105
+54	Response	222	346926	0	1
+54	Response	222	349726	2800	1
+55	Sound	20	349727	0	2			0		hit	107
+55	Response	222	351645	1918	1
+56	Sound	20	351646	0	2			0		hit	110
+57	Sound	20	353486	0	2			0		hit	112
+57	Response	222	353486	0	1
+58	Sound	20	355246	0	2			0		hit	113
+58	Response	222	355246	0	1
+58	Response	222	357085	1839	1
+59	Sound	20	357086	0	2			0		hit	115
+59	Response	222	358685	1599	2
+60	Sound	20	358686	0	2			0		hit	117
+60	Response	222	360445	1759	2
+61	Sound	20	360446	0	2			0		hit	120
+62	Sound	20	362206	0	2			0		hit	121
+62	Response	222	362206	0	1
+62	Response	222	364045	1839	2
+63	Sound	20	364046	0	2			0		hit	123
+63	Response	222	365805	1759	1
+64	Sound	20	365806	0	2			0		hit	125
+64	Response	222	367485	1679	2
+65	Sound	20	367486	0	2			0		hit	127
+65	Response	222	369565	2079	1
+66	Sound	20	369566	0	2			0		hit	129
+66	Response	222	371485	1919	2
+67	Sound	20	371486	0	2			0		hit	132
+68	Sound	20	373406	0	2			0		hit	133
+68	Response	222	373406	0	1
+68	Response	222	375325	1919	1
+69	Sound	20	375326	0	2			0		hit	135
+69	Response	222	383805	8479	1
+70	Sound	20	383806	0	2			0		hit	137
+70	Response	222	393165	9359	1
+71	Sound	20	393166	0	2			0		hit	139
+71	Response	222	401885	8719	1
+72	Sound	20	401886	0	2			0		hit	141
+72	Response	222	411165	9279	1
+73	Sound	20	411166	0	2			0		hit	143
+73	Response	222	420045	8879	1
+74	Sound	20	420046	0	2			0		hit	145
+74	Response	222	429325	9279	1
+75	Sound	20	429326	0	2			0		hit	147
+75	Response	222	437645	8319	1
+76	Sound	20	437646	0	2			0		hit	149
+76	Response	222	447325	9679	1
+77	Sound	20	447326	0	2			0		hit	151
+77	Response	222	456365	9039	1
+78	Sound	20	456366	0	2			0		hit	153
+78	Response	222	465324	8958	2
+79	Sound	20	465325	0	2			0		hit	155
+79	Response	222	475404	10079	2
+80	Sound	20	475405	0	2			0		hit	157
+80	Response	222	483564	8159	1
+81	Sound	20	483565	0	2			0		hit	159
+81	Response	222	492684	9119	1
+82	Sound	20	492685	0	2			0		hit	162
+83	Sound	20	498604	0	2			0		hit	164
+83	Response	222	498604	0	1
+84	Sound	20	500604	0	2			0		hit	166
+84	Response	222	500604	0	1
+85	Sound	20	502444	0	2			0		hit	168
+85	Response	222	502444	0	1
+86	Sound	20	504044	0	2			0		hit	170
+86	Response	222	504044	0	1
+87	Sound	20	505804	0	2			0		hit	172
+87	Response	222	505804	0	1
+88	Sound	20	509164	0	3			0		hit	173
+88	Response	222	509164	0	1
+88	Response	222	510763	1599	2
+89	Sound	20	510764	0	2			0		hit	175
+89	Response	222	512603	1839	1
+90	Sound	20	512604	0	2			0		hit	177
+90	Response	222	514203	1599	1
+91	Sound	20	514204	0	2			0		hit	179
+91	Response	222	515963	1759	1
+92	Sound	20	515964	0	2			0		hit	181
+92	Response	222	517723	1759	1
+93	Sound	20	517724	0	2			0		hit	184
+94	Sound	20	519484	0	2			0		hit	185
+94	Response	222	519484	0	1
+94	Response	222	521323	1839	1
+95	Sound	20	521324	0	2			0		hit	187
+95	Response	222	523003	1679	1
+96	Sound	20	523004	0	2			0		hit	189
+96	Response	222	524843	1839	1
+97	Sound	20	524844	0	2			0		hit	191
+97	Response	222	526603	1759	1
+98	Sound	20	526604	0	2			0		hit	193
+98	Response	222	528523	1919	1
+99	Sound	20	528524	0	2			0		hit	195
+99	Response	222	530283	1759	1
+100	Sound	20	530284	0	2			0		hit	197
+100	Response	222	532203	1919	1
+101	Sound	20	532204	0	2			0		hit	199
+101	Response	222	534123	1919	1
+102	Sound	20	534124	0	2			0		other	0
+102	Response	20	535883	1759	1
+102	Response	20	541963	7839	1
+103	Response	20	552043	7919	1
+104	Response	20	570203	15930	1

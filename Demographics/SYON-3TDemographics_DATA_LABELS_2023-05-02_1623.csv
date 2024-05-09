@@ -1,0 +1,118 @@
+"Record ID","Event Name","Repeat Instrument","Repeat Instance",Date,Gender,Race,Age,"Subject's years of education","WAIS-III Estimated IQ","Snellen Score Numerator","Snellen Score Denominator","Eye Dominance","Initial Diagnosis Group","3T MRI Date Completed"
+9999,"Clinical ",,,,,,,,,,,,,
+999999,"Clinical ",,,,,,,,,,,,,
+S1006397,"Clinical ",,,2021-07-18,Male,"White, not of Hispanic Origin",40,19,95,,,,Control,2021-09-28
+S1006397,"MRI ",,1,,,,,,,,,,,
+S1006912,"Clinical ",,,2019-10-17,Male,"White, not of Hispanic Origin",60,16,114,,,,Control,
+S1007161,"Clinical ",,,2019-09-07,Male,"White, not of Hispanic Origin",60,16,111,,,,Control,
+S1010098,"Clinical ",,,2020-12-10,Female,"White, not of Hispanic Origin",55,16,120,,,,Control,2021-01-04
+S1010098,"MRI ",,1,,,,,,,,,,,
+S1010299,"Clinical ",,,2019-09-21,Male,"White, not of Hispanic Origin",39,16,133,,,,Control,2019-10-18
+S1010299,"MRI ",,1,,,,,,,,,,,
+S1010309,"Clinical ",,,2021-10-27,Female,"More than one race",40,12,117,,,,Control,2021-12-07
+S1010309,"MRI ",,1,,,,,,,,,,,
+S1010859,"Clinical ",,,2022-04-14,Female,"White, not of Hispanic Origin",51,16,95,,,,Control,2022-05-10
+S1010859,"MRI ",,1,,,,,,,20,15,Left,,
+S1011129,"Clinical ",,,2019-10-09,Male,"White, not of Hispanic Origin",58,14,98,,,,,2020-10-15
+S1011129,"MRI ",,1,,,,,,,,,,,
+S1011139,"Clinical ",,,2022-02-09,Female,"White, not of Hispanic Origin",47,16,120,,,,Control,2022-03-25
+S1011139,"MRI ",,1,,,,,,,20,15,,,
+S1011399,"Clinical ",,,2021-07-07,Female,"White, not of Hispanic Origin",44,18,122,,,,Control,2021-08-02
+S1011399,"MRI ",,1,,,,,,,,,,,
+S1012371,"Clinical ",,,2022-02-07,Female,Hispanic,31,16,111,,,,Control,2022-03-06
+S1012371,"MRI ",,1,,,,,,,,,,,
+S1012381,"Clinical ",,,2022-02-17,Male,"White, not of Hispanic Origin",34,16,117,,,,Control,2022-03-13
+S1012381,"MRI ",,1,,,,,,,20,20,,,
+S1012391,"Clinical ",,,2022-05-14,Male,"White, not of Hispanic Origin",33,16,131,,,,Control,
+S1012401,"Clinical ",,,2022-01-29,Male,"Asian or Pacific Islander",35,16,109,,,,Control,2022-04-14
+S1012401,"MRI ",,1,,,,,,,20,20,Left,,
+S1012411,"Clinical ",,,2021-12-07,Male,"White, not of Hispanic Origin",40,16,117,,,,Control,2022-02-11
+S1012411,"MRI ",,1,,,,,,,20,20,Right,,
+S1012421,"Clinical ",,,2022-02-06,Female,"White, not of Hispanic Origin",33,15,122,,,,Control,2022-03-07
+S1012421,"MRI ",,1,,,,,,,20,30,Left,,
+S1012432,"Clinical ",,,2022-02-26,Female,"White, not of Hispanic Origin",23,16,133,,,,Control,2022-04-06
+S1012432,"MRI ",,1,,,,,,,20,15,,,
+S1012451,"Clinical ",,,2021-12-28,Male,"White, not of Hispanic Origin",36,18,125,,,,Control,2022-01-25
+S1012451,"MRI ",,1,,,,,,,,,,,
+S1012517,"Clinical ",,,2022-12-31,Male,"Asian or Pacific Islander",32,16,103,,,,Control,
+S1015018,"Clinical ",,,2021-02-03,Male,"White, not of Hispanic Origin",35,18,103,,,,Control,2021-03-31
+S1015018,"MRI ",,1,,,,,,,,,,,
+S1015022,"Clinical ",,,2022-01-07,Male,Other,26,16,117,,,,Control,2022-03-16
+S1015022,"MRI ",,1,,,,,,,20,30,,,
+S1015022,"MRI ",,2,,,,,,,20,25,Right,,
+S1015038,"Clinical ",,,2019-10-12,Male,"Black, not of Hispanic Origin",40,18,117,,,,Control,2019-10-27
+S1015038,"MRI ",,1,,,,,,,,,,,
+S1015073,"Clinical ",,,2019-09-30,Female,"White, not of Hispanic Origin",22,16,117,,,,Control,2020-10-30
+S1015073,"MRI ",,1,,,,,,,,,,,
+S1015151,"Clinical ",,,2021-07-29,Male,"White, not of Hispanic Origin",52,18,125,,,,Control,2021-08-26
+S1015151,"MRI ",,1,,,,,,,,,,,
+S3101501,"Clinical ",,,2022-08-12,Female,"White, not of Hispanic Origin",55,16,95,,,,"Schizoaffective-Depressed Relative",2022-08-19
+S3101501,"MRI ",,1,,,,,,,20,30,Right,,
+S3104113,"Clinical ",,,2022-06-28,Female,"Black, not of Hispanic Origin",33,14,84,,,,"Schizophrenia Relative",
+S3110475,"Clinical ",,,,,,,,,,,,,
+S3111899,"Clinical ",,,2022-08-18,Female,"White, not of Hispanic Origin",42,18,120,,,,"Bipolar Relative",
+S3112322,"Clinical ",,,2022-05-16,Female,"Black, not of Hispanic Origin",23,12,84,,,,"Schizophrenia Relative",
+S3211899,"Clinical ",,,2022-06-12,Female,"White, not of Hispanic Origin",33,16,103,,,,"Bipolar Relative",2022-08-11
+S3211899,"MRI ",,1,,,,,,,20,30,Right,,
+S4111666,"Clinical ",,,2022-12-28,Male,"White, not of Hispanic Origin",42,20,120,,,,"Bipolar Relative",
+S4112468,"Clinical ",,,2023-01-14,Male,"White, not of Hispanic Origin",32,18,106,,,,"Bipolar Relative",
+S6001403,"Clinical ",,,2021-08-01,Male,Hispanic,47,13,89,,,,Schizophrenia,2021-09-12
+S6001403,"MRI ",,1,,,,,,,,,,,
+S6001501,"Clinical ",,,2021-11-21,Male,"White, not of Hispanic Origin",45,14,92,,,,Schizoaffective-Depressed,
+S6002165,"Clinical ",,,2022-05-04,Male,"White, not of Hispanic Origin",56,14,89,,,,Schizophrenia,2022-06-15
+S6002165,"MRI ",,1,,,,,,,20,20,Left,,
+S6002663,"Clinical ",,,2022-04-18,Male,"White, not of Hispanic Origin",58,16,120,,,,Schizophrenia,2022-08-19
+S6002663,"MRI ",,1,,,,,,,20,25,Right,,
+S6003691,"Clinical ",,,2022-05-03,Male,"White, not of Hispanic Origin",59,16,103,,,,Schizophrenia,2022-06-10
+S6003691,"MRI ",,1,,,,,,,20,30,Right,,
+S6004002,"Clinical ",,,2022-09-19,Female,"White, not of Hispanic Origin",41,18,98,,,,Bipolar,
+S6004113,"Clinical ",,,2022-07-15,Female,"Black, not of Hispanic Origin",33,12,78,,,,Schizophrenia,
+S6004231,"Clinical ",,,2021-12-24,Male,"Black, not of Hispanic Origin",51,13,106,,,,Schizophrenia,2022-01-18
+S6004231,"MRI ",,1,,,,,,,,,,,
+S6004687,"Clinical ",,,2022-12-16,Female,"White, not of Hispanic Origin",55,16,114,,,,,
+S6010363,"Clinical ",,,2021-12-12,Female,"White, not of Hispanic Origin",52,16,106,,,,Schizophrenia,2022-01-18
+S6010363,"MRI ",,1,,,,,,,,,,,
+S6010387,"Clinical ",,,2022-10-05,Male,"White, not of Hispanic Origin",42,12,87,,,,Schizophrenia,
+S6010475,"Clinical ",,,2022-08-08,Female,"American Indian or Alaskan Native",29,15,114,,,,Bipolar,2022-11-28
+S6010475,"MRI ",,1,,,,,,,20,30,Right,,
+S6010566,"Clinical ",,,2022-06-26,Male,"White, not of Hispanic Origin",33,10,87,,,,Schizophrenia,2022-09-11
+S6010566,"MRI ",,1,,,,,,,20,30,Right,,
+S6010671,"Clinical ",,,2022-04-09,Male,"More than one race",57,14,95,,,,Schizophrenia,
+S6010836,"Clinical ",,,2022-10-06,Male,"More than one race",45,9,95,,,,Schizophrenia,2022-11-16
+S6010836,"MRI ",,1,,,,,,,20,25,Right,,
+S6010877,"Clinical ",,,2022-11-22,Female,"White, not of Hispanic Origin",57,18,109,,,,Schizophrenia,2023-01-31
+S6010877,"MRI ",,1,,,,,,,20,30,Left,,
+S6010962,"Clinical ",,,2022-01-07,Male,"White, not of Hispanic Origin",38,16,103,,,,Bipolar,
+S6011159,"Clinical ",,,2022-05-10,Female,"White, not of Hispanic Origin",29,16,114,,,,"Schizoaffective Bipolar",2022-07-12
+S6011159,"MRI ",,1,,,,,,,20,25,Right,,
+S6011427,"Clinical ",,,2022-09-16,Female,"White, not of Hispanic Origin",39,18,100,,,,Bipolar,
+S6011437,"Clinical ",,,2022-08-02,Female,"Black, not of Hispanic Origin",22,15,89,,,,Bipolar,2023-01-15
+S6011437,"MRI ",,1,,,,,,,20,15,Left,,
+S6011467,"Clinical ",,,2022-05-30,Female,"White, not of Hispanic Origin",35,18,120,,,,"Schizoaffective Bipolar",
+S6011571,"Clinical ",,,2022-09-11,Male,Hispanic,35,13,106,,,,"Schizoaffective Bipolar",2022-10-23
+S6011571,"MRI ",,1,,,,,,,20,30,Right,,
+S6011596,"Clinical ",,,,,,,,,,,,Schizoaffective-Depressed,
+S6011666,"Clinical ",,,2022-06-23,Male,"White, not of Hispanic Origin",39,16,103,,,,Bipolar,2022-09-23
+S6011666,"MRI ",,1,,,,,,,20,25,Right,,
+S6011694,"Clinical ",,,2021-06-09,Female,"White, not of Hispanic Origin",53,14,100,,,,Schizophrenia,2021-08-14
+S6011694,"MRI ",,1,,,,,,,,,,,
+S6011899,"Clinical ",,,2022-08-15,Female,"White, not of Hispanic Origin",43,14,92,,,,Bipolar,2023-02-06
+S6011899,"MRI ",,1,,,,,,,20,30,Right,,
+S6011899,"MRI ",,2,,,,,,,20,30,Right,,
+S6012127,"Clinical ",,,2022-04-25,Male,"White, not of Hispanic Origin",53,12,,,,,Schizoaffective-Depressed,
+S6012322,"Clinical ",,,2022-03-18,Female,"Black, not of Hispanic Origin",30,12,70,,,,Schizophrenia,2022-04-08
+S6012322,"MRI ",,1,,,,,,,20,25,Right,,
+S6012441,"Clinical ",,,2022-07-19,Male,"Black, not of Hispanic Origin",56,13,84,,,,Schizoaffective-Depressed,2022-09-05
+S6012441,"MRI ",,1,,,,,,,20,30,Left,,
+S6012468,"Clinical ",,,2022-07-29,Female,"White, not of Hispanic Origin",38,16,114,,,,Bipolar,2022-10-26
+S6012468,"MRI ",,1,,,,,,,20,30,Left,,
+S6012475,"Clinical ",,,2022-03-31,Male,"White, not of Hispanic Origin",56,14,98,,,,Bipolar,2022-04-26
+S6012475,"MRI ",,1,,,,,,,20,25,Right,,
+S6012481,"Clinical ",,,2023-01-11,Female,"White, not of Hispanic Origin",52,15,109,,,,Schizophrenia,
+S6012501,"Clinical ",,,2023-01-22,Male,"Black, not of Hispanic Origin",60,11,67,,,,Bipolar,
+S6015107,"Clinical ",,,2023-01-22,Male,"White, not of Hispanic Origin",37,16,111,,,,Schizophrenia,2023-03-05
+S6015107,"MRI ",,1,,,,,,,20,20,Right,,
+S6015284,"Clinical ",,,2022-06-29,Female,"White, not of Hispanic Origin",34,21,117,,,,Bipolar,2022-12-29
+S6015284,"MRI ",,1,,,,,,,20,10,Right,,
+S6015293,"Clinical ",,,2022-12-03,Male,"White, not of Hispanic Origin",22,15,106,,,,"Schizoaffective Bipolar",
+S6015421,"Clinical ",,,2022-09-29,Male,"White, not of Hispanic Origin",34,14,78,,,,"Schizoaffective Bipolar",

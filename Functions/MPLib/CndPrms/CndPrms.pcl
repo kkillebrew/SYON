@@ -1,0 +1,296 @@
+/* CndPrms.pcl
+Subroutines for file-configurable parameters
+
+These subroutines can be used anywhere after the following statement in your PCL code:
+
+include_once "C:\\Projects\\CndPrms\\CndPrms.pcl"; 
+
+This example is the path used on HEPStim; if you use a different path on your computer, you'll have to change it
+back to run on HEPStim.
+
+In addition to comments accompanying each subroutine, see also, "Additional notes on design and logic"
+at bottom of this file.
+*/
+
+/*
+LoadCndPrms loads parameter data from the file CndPrms.txt, checks to make sure the fields therein are defined
+for the calling scenario, and fills in arrays of condition parameter information (supplied as arguments to LoadCndPrms)
+so that scenario can decide which file-configurable parameter values can be set using data from CndPrms.txt, and which
+ones need to be set using hard-coded expressions in the scenario program.  To make this decision, the scenario can
+invoke IsCndPrm( aPrm, aPrms ) to test whether a parameter occurs in CndPrms.txt.  Call this subroutine before
+you attempt to use any others.
+
+Specifications for CndPrms.txt:
+1) Tab-delimited-text file.
+2) First entry of header row is "Cnd", and remaining entries are names of the 
+	CndPrms to be set at runtime.
+3) Every item in Cnd column should match (case insensitive) one of the entries
+	in the argument array aCndsChk; not all entries in aCndsChk need to have
+	a field; in that case, default behavior should be defined in scenario.
+4) Every field name in header row should match (case insensitive) one of the entries
+	in the argument array aPrmsChk; not all entries in aPrmsChk need to have
+	a field; in that case, default behavior should be defined in scenario.
+5) First record should have Code field "default", and specifies values for all
+	rest of the parameter fields.
+6) Fields in remaining records specify values for any parameters to be used when
+	a condition with corresponding code value is presented.
+7) Empty cell will use corresponding parameter value from default record.
+
+The following arguments are filled in so they may be re-used by other subroutines: 
+aPrms will be filled with names of CndPrms to be assigned from CndPrms.txt for use by IsCndPrm() and GetCndPrm()
+aCnds will be filled with codes of cnds with prms assigned from CndPrms.txt for use by IsCndPrm() and GetCndPrm()
+aCndPrms will be filled with a 2D map of Cnds and Prms for use by GetCndPrm()
+
+The following arguments are for protection against spelling errors in CndPrms.txt
+aPrmsChk is a list of Prm names that are defined in the scenario that may be set from items in CndPrms.txt
+aCndsChk is a list of Cnd names that are defined in the scenario that may be set from items in CndPrms.txt
+*/
+
+sub
+	LoadCndPrms( string aCndPrmFileName, array<string,2>& aCndPrms, array<string,1>& aCnds, array<string,1>& aPrms,
+		array<string,1>& aCndsChk, array<string,1>& aPrmsChk )
+begin
+	# file input of condition parameters
+	input_file tIFCndPrms = new input_file;
+	tIFCndPrms.open( aCndPrmFileName );
+	string tHdrStr = tIFCndPrms.get_line();
+	tHdrStr.split( "\t", aPrms );
+	loop int iPrm = 2 until iPrm > aPrms.count() begin
+		aPrms[ iPrm - 1 ] = aPrms[ iPrm ]; # first Prm name is always "Code", so skip it...
+		# check to make sure that the Prm in the file is defined for this scenario
+		bool tPrmIsDef = false;
+		loop int iPrmChk = 1 until iPrmChk > aPrmsChk.count() || tPrmIsDef begin
+			tPrmIsDef = ( aPrms[ iPrm - 1 ].lower() == aPrmsChk[ iPrmChk ].lower() );
+			iPrmChk = iPrmChk + 1;
+		end;
+		if !tPrmIsDef then
+			exit( "Field " + aPrms[ iPrm - 1 ] + " in " + aCndPrmFileName + " undefined for this scenario." );
+		end;
+		iPrm = iPrm + 1;
+	end;
+	aPrms.resize( aPrms.count() - 1 );
+	if !tIFCndPrms.last_succeeded() then
+		exit( "Error while reading " + aCndPrmFileName + " file!" );
+	end;
+	tIFCndPrms.close();
+
+	# now repeat the process for the Cnd codes
+	tIFCndPrms.open( aCndPrmFileName );
+	tHdrStr = tIFCndPrms.get_line(); # we won't use this, we just need to get past it
+	string tRecStr; # to contain the record retrieved from each remaining row of CndPrms.txt
+	array<string> tFlds[0]; # to contain the fields in the columns of each tRecStr
+	loop until tIFCndPrms.end_of_file() || !tIFCndPrms.last_succeeded() begin
+		tRecStr = tIFCndPrms.get_line();
+		tRecStr.split( "\t", tFlds );
+		string tCnd = tFlds[ 1 ]; # tFlds[ 1 ] is the Cnd code for this record
+		bool tCndIsDef = false;
+		loop int iCndChk = 1 until iCndChk > aCndsChk.count() || tCndIsDef begin
+			tCndIsDef = ( tCnd.lower() == aCndsChk[ iCndChk ].lower() );
+			iCndChk = iCndChk + 1;
+		end;
+		if !tCndIsDef then
+			exit( "Cnd Code " + tCnd + " in " + aCndPrmFileName + " undefined for this scenario." );
+		end;
+		# everything ok thus far, so now we can fill in items in aCndPrms for this record
+		aCnds.add( tCnd );
+		aCndPrms.add( { "" } );
+		aCndPrms[ aCndPrms.count() ].resize( tFlds.count() - 1 );
+		loop int iPrm = 2 until iPrm > tFlds.count() begin
+			if tFlds[ iPrm ] == "" then # nothing specified...
+				aCndPrms[ aCndPrms.count() ][ iPrm - 1 ] = aCndPrms[ 1 ][ iPrm - 1 ]; # ...fill in default value from first record
+			else
+				aCndPrms[ aCndPrms.count() ][ iPrm - 1 ] = tFlds[ iPrm ]; # use explicit value from this cell in table
+			end;
+			iPrm = iPrm + 1; 
+		end
+	end;
+	if !tIFCndPrms.last_succeeded() then
+		exit( "Error while reading " + aCndPrmFileName + " file!" );
+	end;
+	tIFCndPrms.close();
+end;
+
+/*
+These next four subs are helpers and probably need not be used except by subroutines in this module
+Skip down to IsCndPrm for more user-called subs
+*/
+
+/*
+GetICnd: get the index of aCnd in aCnds, or -1 if not present
+*/
+sub
+	int GetICnd( string aCnd, array<string,1>& aCnds )
+begin
+	# try to find the index of aCnd
+	int iCnd = 1;
+	bool tIsCndMatch = false;
+	loop until iCnd > aCnds.count() || tIsCndMatch begin
+		tIsCndMatch = ( aCnd == aCnds[ iCnd ] );
+#		term.print( string( iCnd ) + ": " + aCnd + " == " + aCnds[ iCnd ] + " is " + string( tIsCndMatch ) + "\n" );
+		iCnd = iCnd + 1;
+	end;
+	if !tIsCndMatch then return -1; end;
+	return iCnd - 1;
+end;
+
+/*
+IsCnd: test whether aCnd is in aCnds, using GetICnd
+*/
+sub
+	bool IsCnd( string aCnd, array<string,1>& aCnds )
+begin
+	if GetICnd( aCnd, aCnds ) == -1 then return false; end; return true;
+end;
+
+/*
+GetIPrm: get the index of aPrm in aPrms, or -1 if not present
+*/
+sub
+	int GetIPrm( string aPrm, array<string,1>& aPrms )
+begin
+	# try to find the index of aPrm
+	int iPrm = 1;
+	bool tIsPrmMatch = false;
+	loop until iPrm > aPrms.count() || tIsPrmMatch begin
+		tIsPrmMatch = ( aPrm == aPrms[ iPrm ] );
+		iPrm = iPrm + 1;
+	end;
+	if !tIsPrmMatch then return -1; end;
+	return iPrm - 1;
+end;
+
+/*
+IsPrm: test whether aPrm is in aPrms, using GetIPrm
+*/
+sub
+	bool IsPrm( string aPrm, array<string,1>& aPrms )
+begin
+	if GetIPrm( aPrm, aPrms ) == -1 then return false; end; return true;
+end;
+
+/*
+IsCndPrm: test whether both IsCnd and IsPrm are true
+Scenarios call this to determine whether CndPrm is set by CndPrm.txt;
+if not, scenario should define some default behavior
+*/
+sub
+	bool IsCndPrm( string aCnd, string aPrm, array<string,1>& aCnds, array<string,1>& aPrms )
+begin
+	return IsCnd( aCnd, aCnds ) && IsPrm( aPrm, aPrms );
+end;
+
+/*
+GetCndPrm: get the string value from aCndPrms[ aCnd ][ aPrm ]
+Scenario must test first using IsCndPrm and use default behavior if needed
+*/
+sub
+	string GetCndPrm( string aCnd, string aPrm, array<string,1>& aCnds, array<string,1>& aPrms, array<string,2>& aCndPrms )
+begin
+	if !IsCndPrm( aCnd, aPrm, aCnds, aPrms ) then
+		exit( "Condition " + aCnd + ": " + aPrm + " not found in CndPrm file." );
+	end;
+	string tCndPrm = aCndPrms[ GetICnd( aCnd, aCnds ) ][ GetIPrm( aPrm, aPrms ) ];
+	return tCndPrm;
+end;
+
+# Type conversion helpers
+sub
+	int GetCndPrmInt( string aCnd, string aPrm, array<string,1>& aCnds, array<string,1>& aPrms, array<string,2>& aCndPrms )
+begin
+	return int( GetCndPrm( aCnd, aPrm, aCnds, aPrms, aCndPrms ) );
+end;
+
+sub
+	double GetCndPrmDbl( string aCnd, string aPrm, array<string,1>& aCnds, array<string,1>& aPrms, array<string,2>& aCndPrms )
+begin
+	return double( GetCndPrm( aCnd, aPrm, aCnds, aPrms, aCndPrms ) );
+end;
+
+sub
+	bool GetCndPrmBool( string aCnd, string aPrm, array<string,1>& aCnds, array<string,1>& aPrms, array<string,2>& aCndPrms )
+begin
+	string tPrmStr = GetCndPrm( aCnd, aPrm, aCnds, aPrms, aCndPrms );
+	bool tBool = false;
+	if tPrmStr.lower().find( "true" ) != 0 then tBool = true;
+	elseif tPrmStr.lower().find( "false" ) != 0 then tBool = false;
+	else exit( "GetCndPrmBool expects either true or false" );
+	end;
+	return tBool;
+end;
+
+sub
+	rgb_color GetCndPrmColor( string aCnd, string aPrm, array<string,1>& aCnds, array<string,1>& aPrms, array<string,2>& aCndPrms )
+begin
+	array<string> tColorStr[ 0 ];
+	string tPrmStr = GetCndPrm( aCnd, aPrm, aCnds, aPrms, aCndPrms );
+	tPrmStr.split( ".", tColorStr );
+	if tColorStr.count() != 3 then
+		exit( "Invalid color value for " + aCnd + ", " + aPrm + " in CndPrm file: must be like 127.127.127" );
+	end;
+	loop int iRGB = 1 until iRGB > 3 begin
+		int tRGBVal = int( tColorStr[ iRGB ] );
+		if tRGBVal < 0 || tRGBVal > 255 then
+			exit( "Invalid color RGB value for " + aCnd + ", " + aPrm + " in CndPrm file: must be [0,255]" );
+		end;
+		iRGB = iRGB + 1;
+	end;
+	rgb_color tColor = rgb_color( int( tColorStr[ 1 ] ), int( tColorStr[ 2 ] ), int( tColorStr[ 3 ] ) );
+	return tColor;
+end;
+
+/*
+Additional notes on design and logic.
+
+We want CndPrms.txt to be forward-compatible. If a CndPrms.txt file is created for some 
+older version of a scenario, we should be able to reuse it for newer versions of the
+scenario, even if the newer scenario has new parameters that can be set from CndPrms.txt.
+This way, we don't have to go back through every CndPrms.txt file adding new columns to
+work with the new scenario.  Also, this allows us to roll back to the older scenario, again
+without having to back out changes to CndPrms.txt.  Also, this feature allows maximum flexibility
+to define very compact CndPrams.txt files, that manipulate only the parameters of interest
+for a particular session.
+
+Unfortunately, implementing this feature introduces a vulnerability to spelling errors.  To make
+CndPrms.txt forward-compatible, the scenario must supply a default value for any parameter that
+might be defined in CndPrms.txt (hereafter we refer to such parameters as "file-configurable"); that
+way, if a file-configurable parameter can not be found in the CndPrms.txt file (e.g., when the
+CndPrms.txt file was created for an older version of the scenario), the scenario will simply
+use the hard-coded default value specified in the .sce file.
+
+Now, consider what happens when the user mis-spells a parameter name in the CndPrms.txt file.
+For example, let's say that the scenario uses a file-configurable parameter, "tContrast", that
+defaults to a value of 50% whenever its value is not specified in CndPrms.txt.  Now imagine that
+the user has attempted to define a value of 75% for tContrast in CndPrms.txt, but has mis-spelled
+the name as "tSchmontrast".  When the scenario tries to find a value for tContrast in the CndPrms.txt
+file, it will find no match for the name "tContrast", and will use the default value of 50%, even though
+the user is expecting a value of 75%.
+
+Obviously, we must somehow alert the user to this situation at run-time.  One possible solution
+is to issue a warning each time a default value is used for a file-configurable parameter that is not listed in
+CndPrms.txt.  However, if there are several such parameters, this can be quite tedious at run time.
+Such a situation can actually lead to more errors as users become desensitized to the flurry of
+warnings that come as a side effect of simply using a default parameter value.
+
+LoadCndPrms implements a better solution to protect against mis-spelled names of file-configurable parameters
+in CndPrms.txt.  To check our spelling, we supply an argument, aPrmsChk, which is a list of all the
+file-configurable parameter names that might be specified in CndPrms.txt.  When LoadCndPrms tries to configure
+the list of file-configurable parameters that actually occur in CndPrms.txt, it first checks all the parameter
+names against the list in aPrmsChk. If one of the names isn't found in aPrmsChk, then it must be
+mis-spelled (or otherwise erroneous), and an error message is issued.
+
+Following the same logic, LoadCndPrms also takes an argument aCndsChk, for checking the spelling of
+items in the "code" column of each record int CndPrms.txt.  Again, this allows us to create very compact CndPrms.txt
+files that specify parameter values for only the subset of condition codes that need them.  As before, the scenario
+can invoke IsCnd( aCnd, aCnds ), to decide whether to set parameters for a given condition code from
+CndPrms.txt, or to use hard-coded default expressions
+*/
+
+
+
+
+
+
+
+
+
+

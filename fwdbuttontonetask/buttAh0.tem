@@ -1,0 +1,23 @@
+#trial{
+#	monitor_sounds = false;
+#	trial_duration = forever;
+	#trial_type = specific_response;
+	#trial_type = correct_response;
+   #target_button = 2;
+	#terminator_button = $resp;   
+	#sound Ah;  
+   #time = 0;          
+	#code = "Ah";
+	#port_code = 100;
+#};
+
+
+trial {
+    trial_duration = forever;        	# trial lasts until target
+    trial_type = correct_response;   	#   button is pressed
+    sound Ah;
+    code = 20;
+    time = 0;
+    duration = next_picture;
+    target_button = $resp;
+};

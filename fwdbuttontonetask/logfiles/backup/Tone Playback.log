@@ -1,0 +1,10 @@
+Scenario - Stim
+Logfile written - 10/14/2020 09:52:23
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	start	166	0	4	5171	5	0	5000	other	0
+2	Sound	Ah	10169	1	2			0		other	0
+3	Sound	Ah	18518	0	2			0		other	0
+4	Sound	Ah	28278	0	2			0		other	0
+4	Quit		38765	10487

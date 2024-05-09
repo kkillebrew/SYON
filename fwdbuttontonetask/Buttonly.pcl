@@ -1,0 +1,41 @@
+#output_port port = output_port_manager.get_port( 2 );
+#preset workspace matlab = new workspace( "srslab", true );
+
+start_exps.present();
+
+#is this needed?
+run_types.present();
+
+loop
+	int n = 1
+until
+	n > 1
+begin
+#loops through the scenario file
+loop 
+int i = 1
+until
+	i > trials.count()
+begin
+	
+	trials[i].present();
+	
+	#if i == 50 then
+	#rest.present();
+	#ten.present();
+	#nine.present();
+	#eight.present();
+	#seven.present();
+	#six.present();
+	#five.present();
+	#four.present();
+	#three.present();
+	#two.present();
+	#one.present();
+	#start_2.present();
+	#end;
+	#port.send_code( 255 );
+	i = i + 1
+end;
+	n = n + 1
+end;

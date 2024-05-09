@@ -1,0 +1,16 @@
+Scenario - Stim
+Logfile written - 07/14/2021 15:13:36
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Jeri_Pilot	1	Picture	start	166	0	1	5172	2	0	5000	other	0
+Jeri_Pilot	2	Sound	Ah	10166	0	2			0		other	0
+Jeri_Pilot	3	Sound	Ah	26896	0	2			0		other	0
+Jeri_Pilot	4	Sound	Ah	47116	0	2			0		other	0
+Jeri_Pilot	5	Sound	Ah	66866	0	2			0		other	0
+Jeri_Pilot	6	Sound	Ah	84446	0	2			0		other	0
+Jeri_Pilot	7	Sound	Ah	101976	0	2			0		other	0
+Jeri_Pilot	8	Sound	Ah	120666	0	2			0		other	0
+Jeri_Pilot	9	Sound	Ah	139716	0	2			0		other	0
+Jeri_Pilot	10	Sound	Ah	159486	0	2			0		other	0
+Jeri_Pilot	10	Quit		164815	5329

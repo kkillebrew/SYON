@@ -1,0 +1,109 @@
+Scenario - passive press generic training 1.2
+Logfile written - 11/09/2020 13:53:05
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Collin_Test2	1	Picture	83	166	0	1	5005	2	0	4950	other	0
+Collin_Test2	1	Picture	82	10176	10010	1	5005	2	9950	4950	other	0
+Collin_Test2	1	Picture	81	20186	20020	1	5005	2	19950	4950	other	0
+Collin_Test2	1	Picture	80	30196	30030	1	5005	2	29950	4950	other	0
+Collin_Test2	1	Picture	81	40205	40039	2	10010	3	39950	9950	other	0
+Collin_Test2	1	Port Input	14	42777	42611	1
+Collin_Test2	1	Response	100	42777	42611	1
+Collin_Test2	1	Port Input	15	42778	42612	1
+Collin_Test2	1	Port Input	14	42778	42612	1
+Collin_Test2	1	Port Input	15	42779	42613	1
+Collin_Test2	1	Port Input	14	42779	42613	1
+Collin_Test2	1	Port Input	15	42779	42613	1
+Collin_Test2	1	Port Input	14	42779	42613	1
+Collin_Test2	1	Port Input	15	45482	45316	1
+Collin_Test2	1	Port Input	14	45482	45316	1
+Collin_Test2	1	Port Input	15	45483	45317	1
+Collin_Test2	1	Port Input	14	45483	45317	1
+Collin_Test2	1	Port Input	15	45483	45317	1
+Collin_Test2	1	Port Input	14	45483	45317	1
+Collin_Test2	1	Port Input	15	45483	45317	1
+Collin_Test2	1	Port Input	14	45483	45317	1
+Collin_Test2	1	Port Input	15	45483	45317	1
+Collin_Test2	1	Port Input	14	45484	45318	1
+Collin_Test2	1	Port Input	15	45484	45318	1
+Collin_Test2	1	Picture	81	60225	60059	1	10010	2	59950	9950	other	0
+Collin_Test2	1	Port Input	14	62219	62053	1
+Collin_Test2	1	Response	100	62219	62053	1
+Collin_Test2	1	Port Input	15	64316	64150	2
+Collin_Test2	1	Port Input	14	64317	64151	1
+Collin_Test2	1	Port Input	15	64317	64151	1
+Collin_Test2	1	Port Input	14	64317	64151	1
+Collin_Test2	1	Port Input	15	64317	64151	1
+Collin_Test2	1	Picture	81	80245	80079	1	10009	3	79950	9950	other	0
+Collin_Test2	1	Port Input	14	81676	81510	1
+Collin_Test2	1	Response	100	81676	81510	1
+Collin_Test2	1	Port Input	15	84089	83923	1
+Collin_Test2	1	Port Input	14	84089	83923	1
+Collin_Test2	1	Port Input	15	84089	83923	1
+Collin_Test2	1	Port Input	14	84089	83923	1
+Collin_Test2	1	Port Input	15	84089	83923	1
+Collin_Test2	1	Port Input	14	84089	83923	2
+Collin_Test2	1	Port Input	15	84090	83924	1
+Collin_Test2	2	Port Input	14	99740	9319	1
+Collin_Test2	2	Response	100	99740	9319	1
+Collin_Test2	3	Port Input	15	102331	2567	3
+Collin_Test2	3	Port Input	14	119183	19419	4
+Collin_Test2	3	Response	100	119183	19419	4
+Collin_Test2	3	Port Input	15	119186	19422	1
+Collin_Test2	3	Port Input	14	119186	19422	1
+Collin_Test2	4	Port Input	15	121592	2309	3
+Collin_Test2	4	Port Input	14	138300	19017	4
+Collin_Test2	4	Response	100	138300	19017	4
+Collin_Test2	5	Port Input	15	140660	2192	4
+Collin_Test2	5	Port Input	14	156398	17930	4
+Collin_Test2	5	Response	100	156398	17930	4
+Collin_Test2	5	Port Input	15	156401	17933	1
+Collin_Test2	5	Port Input	14	156401	17933	1
+Collin_Test2	6	Port Input	15	158711	2225	1
+Collin_Test2	6	Port Input	14	158711	2225	1
+Collin_Test2	6	Port Input	15	158717	2231	3
+Collin_Test2	6	Port Input	14	175119	18633	3
+Collin_Test2	6	Response	100	175119	18633	3
+Collin_Test2	6	Port Input	15	175122	18636	1
+Collin_Test2	6	Port Input	14	175122	18636	1
+Collin_Test2	7	Port Input	15	177676	2505	3
+Collin_Test2	7	Port Input	14	194595	19424	3
+Collin_Test2	7	Response	100	194595	19424	3
+Collin_Test2	7	Port Input	15	194598	19427	1
+Collin_Test2	7	Port Input	14	194598	19427	3
+Collin_Test2	7	Port Input	15	194600	19429	1
+Collin_Test2	7	Port Input	14	194600	19429	2
+Collin_Test2	8	Port Input	15	196987	2297	4
+Collin_Test2	8	Port Input	14	212970	18280	4
+Collin_Test2	8	Response	100	212970	18280	4
+Collin_Test2	9	Port Input	15	215244	2202	1
+Collin_Test2	9	Port Input	14	232452	19410	4
+Collin_Test2	9	Response	100	232452	19410	4
+Collin_Test2	10	Port Input	15	234937	2376	1
+Collin_Test2	10	Port Input	14	252350	19789	3
+Collin_Test2	10	Response	100	252350	19789	4
+Collin_Test2	10	Port Input	15	252352	19791	2
+Collin_Test2	10	Port Input	14	252353	19792	1
+Collin_Test2	11	Port Input	15	254734	2320	1
+Collin_Test2	11	Port Input	14	254734	2320	4
+Collin_Test2	11	Port Input	15	254740	2326	4
+Collin_Test2	11	Port Input	14	271605	19191	3
+Collin_Test2	11	Response	100	271605	19191	3
+Collin_Test2	11	Port Input	15	271607	19193	1
+Collin_Test2	11	Port Input	14	271607	19193	4
+Collin_Test2	12	Port Input	15	274269	2503	4
+Collin_Test2	12	Port Input	14	274272	2506	1
+Collin_Test2	12	Port Input	15	274272	2506	4
+Collin_Test2	12	Port Input	14	291330	19564	3
+Collin_Test2	12	Response	100	291330	19564	4
+Collin_Test2	13	Port Input	15	294342	2890	4
+Collin_Test2	13	Port Input	14	294345	2893	1
+Collin_Test2	13	Port Input	15	294345	2893	1
+Collin_Test2	13	Port Input	14	311178	19726	1
+Collin_Test2	13	Response	100	311178	19726	1
+Collin_Test2	14	Port Input	15	313989	2684	1
+Collin_Test2	14	Port Input	14	313994	2689	1
+Collin_Test2	14	Port Input	15	313995	2690	3
+Collin_Test2	14	Port Input	14	331044	19739	4
+Collin_Test2	14	Response	100	331044	19739	4

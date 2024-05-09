@@ -1,0 +1,32 @@
+Scenario - Push Button + tone (0ms)
+Logfile written - 10/08/2020 12:27:53
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	start	166	0	1	667	3	0	next	other	0
+3	Nothing	nothing	5333	0	1			0		hit	3
+3	Response	222	12600	7267	1
+4	Sound	20	12601	0	2			0		hit	5
+4	Response	222	23320	10719	1
+5	Sound	20	23321	0	2			0		hit	7
+5	Response	222	34680	11359	1
+6	Sound	20	34681	0	2			0		hit	9
+6	Response	222	45480	10799	1
+7	Sound	20	45481	0	2			0		hit	11
+7	Response	222	58519	13038	2
+8	Sound	20	58520	0	2			0		hit	13
+8	Response	222	70039	11519	1
+9	Sound	20	70040	0	2			0		hit	15
+9	Response	222	78679	8639	1
+10	Sound	20	78680	0	2			0		hit	18
+11	Sound	20	90439	0	3			0		hit	19
+11	Response	222	90439	0	1
+11	Response	222	99639	9200	1
+12	Sound	20	99640	0	2			0		hit	21
+12	Response	222	109319	9679	1
+13	Sound	20	109320	0	2			0		hit	23
+13	Response	222	119639	10319	1
+14	Sound	20	119640	0	2			0		hit	26
+15	Sound	20	128599	0	2			0		miss	0
+15	Response	222	128599	0	1
+15	Quit		135814	7215

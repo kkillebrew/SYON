@@ -1,0 +1,33 @@
+sub
+	SetPromptTrial( trial aPromptTrial, text aPromptText )
+begin
+	/*
+		Sets up properties of prompt trial and text, which must be declared and
+		initialized before calling this function
+	*/
+	double tPromptSize = 0.4;
+	aPromptText.set_caption( "Caption" );
+	aPromptText.set_font_size( tPromptSize );
+	aPromptText.set_background_color( 0, 0, 0, 0 );
+	aPromptText.redraw();
+	picture tPromptPic = new picture;
+	tPromptPic.add_part( aPromptText, 0.0, 1.0 );
+	#tPromptPic.add_part( tFixPat, 0.0, 1.0 );
+	aPromptTrial.get_stimulus_event( 1 ).set_stimulus( tPromptPic );
+	aPromptTrial.set_duration( forever );
+	aPromptTrial.set_type( specific_response );
+	array< int > tTermButtons[ 2 ] = { 1, 2 };
+	aPromptTrial.set_terminator_buttons( tTermButtons );
+end;
+
+sub
+	bool IsPromptYes( trial aPromptTrial, text aPromptText, string aPromptStr )
+begin
+	/*
+		Presents prompt and returns whether left button was clicked to indicate yes
+	*/
+	aPromptText.set_caption( aPromptStr + " Y=L, N=R" );
+	aPromptText.redraw();
+	aPromptTrial.present();
+	return response_manager.last_response() == 1;
+end;

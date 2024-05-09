@@ -1,0 +1,31 @@
+#trial{
+#	monitor_sounds = false;
+#	trial_duration = forever;
+#	trial_type = specific_response;  
+#	terminator_button = $resp;
+#	  picture {
+ #     text {caption = "+";
+	#			font_size = 36;};
+    #  x = 0; y = 0;
+	  #};             
+	  #time = 0;
+	  #duration = next_picture;
+	  #port_code = 1;
+
+	  
+#};
+
+trial {
+		monitor_sounds = false;
+    trial_duration = forever;        	# trial lasts until target
+    trial_type = correct_response;   	#   button is pressed
+    picture {
+      text {caption = "+";
+				font_size = 36;};
+      x = 0; y = 0;
+	  };      
+    code = 20;
+    time = 0;
+    duration = next_picture;
+    target_button = $resp;
+};

@@ -1,0 +1,13 @@
+Scenario - passive press generic training 1.2
+Logfile written - 09/23/2020 16:51:23
+
+Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	83	166	0	1	5004	2	0	4950	other	0
+1	Picture	82	10174	10008	1	5004	2	9950	4950	other	0
+1	Picture	81	20182	20016	1	5004	2	19950	4950	other	0
+1	Picture	80	30190	30024	1	5004	2	29950	4950	other	0
+1	Picture	81	40198	40032	1	10008	2	39950	9950	other	0
+1	Picture	81	60214	60048	1	10008	2	59950	9950	other	0
+1	Picture	81	80230	80064	1	10008	2	79950	9950	other	0
+2	Quit		145572	55168
