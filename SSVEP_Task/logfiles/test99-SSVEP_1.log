@@ -1,0 +1,23 @@
+Scenario - SSVEP
+Logfile written - 12/22/2021 14:20:57
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test99	2	Response	1	264132	203231	1
+test99	3	Picture	Pic1:3:grating1_cont1_or1,grating0, fix:1	280683	0	1	4583	1	0	next	other	0
+test99	3	Picture	Pic2:30:grating1_cont1_or1,grating0, fix:3	285266	4583	1	1528	1	4400	next	other	0
+test99	3	Picture	Pic3:0:grating1_cont1_or1,grating0, fix:1	286794	6111	1	1528	1	5750	next	other	0
+test99	3	Picture	Pic4:5:grating1_cont1_or1,grating0, fix:2	288322	7639	1	1528	1	7100	next	other	0
+test99	3	Picture	Pic5:0:grating1_cont1_or1,grating0, fix:1	289850	9166	1	1528	1	8450	next	other	0
+test99	3	Picture	Pic6:0:grating1_cont1_or1,grating0, fix:1	291377	10694	1	1597	1	9800	next	other	0
+test99	3	Picture	Pic7:0:grating1_cont1_or1,grating0, fix:1	292974	12291	1	1528	1	11150	next	other	0
+test99	3	Picture	Pic8:0:grating1_cont1_or1,grating0, fix:1	294502	13819	1	1528	1	12500	next	other	0
+test99	3	Picture	Pic9:0:grating1_cont1_or1,grating0, fix:1	296030	15347	1	1528	1	13850	next	other	0
+test99	3	Picture	Pic10:0:grating1_cont1_or1,grating0, fix:1	297558	16874	1	1528	1	15200	next	other	0
+test99	3	Picture	Pic11:0:grating1_cont1_or1,grating0, fix:1	299085	18402	1	1528	1	16550	next	other	0
+test99	3	Picture	Pic12:0:grating1_cont1_or1,grating0, fix:1	300613	19930	1	1528	1	17900	next	other	0
+test99	3	Picture	Pic13:0:grating1_cont1_or1,grating0, fix:1	302141	21458	1	1528	1	19250	next	other	0
+test99	3	Picture	Pic14:0:grating1_cont1_or1,grating0, fix:1	303668	22985	1	1528	1	20600	next	other	0
+test99	3	Picture	Pic15:0:grating1_cont1_or1,grating0, fix:1	305196	24513	1	1528	1	21950	next	other	0
+test99	3	Picture	Pic16:0:grating1_cont1_or1,grating0, fix:1	306724	26041	1	7814	1	23300	next	other	0
+test99	3	Quit		307125	26442	NA

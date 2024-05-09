@@ -1,0 +1,110 @@
+Scenario - SSVEP
+Logfile written - 11/11/2023 09:35:25
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Response	1	16659	5965	1
+test	1	Response	1	54179	43485	1
+test	2	Response	1	64419	3657	1
+test	2	Response	1	69780	9018	1
+test	3	Picture	Pic1:3:grating1_cont4_or1,grating0, fix:1	80692	0	1	5208	1	0	next	other	0
+test	3	Picture	Pic2:13:grating1_cont4_or1,grating0, fix:3	85900	5208	1	1528	1	5030	next	other	0
+test	3	Picture	Pic3:0:grating1_cont4_or1,grating0, fix:1	87428	6736	1	1528	1	6380	next	other	0
+test	3	Picture	Pic4:0:grating1_cont4_or1,grating0, fix:1	88956	8264	1	1528	1	7730	next	other	0
+test	3	Picture	Pic5:0:grating1_cont4_or1,grating0, fix:1	90483	9791	1	1528	1	9080	next	other	0
+test	3	Picture	Pic6:0:grating1_cont4_or1,grating0, fix:1	92011	11319	1	1597	1	10430	next	other	0
+test	3	Picture	Pic7:0:grating1_cont4_or1,grating0, fix:1	93608	12916	1	1528	1	11780	next	other	0
+test	3	Picture	Pic8:0:grating1_cont4_or1,grating0, fix:1	95136	14444	1	1528	1	13130	next	other	0
+test	3	Picture	Pic9:0:grating1_cont4_or1,grating0, fix:1	96664	15972	1	1528	1	14480	next	other	0
+test	3	Picture	Pic10:0:grating1_cont4_or1,grating0, fix:1	98191	17499	1	1528	1	15830	next	other	0
+test	3	Picture	Pic11:0:grating1_cont4_or1,grating0, fix:1	99719	19027	1	1528	1	17180	next	other	0
+test	3	Picture	Pic12:0:grating1_cont4_or1,grating0, fix:1	101247	20555	1	1528	1	18530	next	other	0
+test	3	Picture	Pic13:0:grating1_cont4_or1,grating0, fix:1	102775	22083	1	1528	1	19880	next	other	0
+test	3	Picture	Pic14:0:grating1_cont4_or1,grating0, fix:1	104302	23610	1	1528	1	21230	next	other	0
+test	3	Picture	Pic15:0:grating1_cont4_or1,grating0, fix:1	105830	25138	1	1528	1	22580	next	other	0
+test	3	Picture	Pic16:0:grating1_cont4_or1,grating0, fix:1	107358	26666	1	1528	1	23930	next	other	0
+test	3	Picture	Pic17:0:grating1_cont4_or1,grating0, fix:1	108886	28194	1	1528	1	25280	next	other	0
+test	3	Picture	Pic18:0:grating1_cont4_or1,grating0, fix:1	110413	29721	1	1528	1	26630	next	other	0
+test	3	Picture	Pic19:0:grating1_cont4_or1,grating0, fix:1	111941	31249	1	1528	1	27980	next	other	0
+test	3	Picture	Pic20:4:grating1_cont4_or1,grating0, fix:1	113469	32777	1	2292	1	29330	next	other	0
+test	4	Picture	Pic1:3:grating2_cont2_or2,grating2_cont1_or2, fix:1	130552	0	1	5000	1	0	next	other	0
+test	4	Picture	Pic2:131:grating2_cont2_or2,grating2_cont1_or2, fix:3	135551	5000	1	1389	1	4960	next	other	0
+test	4	Picture	Pic3:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	136940	6389	1	1389	1	6310	next	other	0
+test	4	Picture	Pic4:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	138329	7778	1	1389	1	7660	next	other	0
+test	4	Picture	Pic5:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	139718	9166	1	1389	1	9010	next	other	0
+test	4	Picture	Pic6:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	141107	10555	1	1389	1	10360	next	other	0
+test	4	Picture	Pic7:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	142496	11944	1	1458	1	11710	next	other	0
+test	4	Picture	Pic8:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	143954	13402	1	1389	1	13060	next	other	0
+test	4	Picture	Pic9:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	145343	14791	1	1389	1	14410	next	other	0
+test	4	Picture	Pic10:5:grating2_cont2_or2,grating2_cont1_or2, fix:2	146732	16180	1	1389	1	15760	next	other	0
+test	4	Picture	Pic11:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	148120	17569	1	1389	1	17110	next	other	0
+test	4	Picture	Pic12:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	149509	18958	1	1389	1	18460	next	other	0
+test	4	Picture	Pic13:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	150898	20347	1	1389	1	19810	next	other	0
+test	4	Picture	Pic14:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	152287	21735	1	1389	1	21160	next	other	0
+test	4	Picture	Pic15:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	153676	23124	1	1389	1	22510	next	other	0
+test	4	Picture	Pic16:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	155065	24513	1	1389	1	23860	next	other	0
+test	4	Picture	Pic17:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	156454	25902	1	1389	1	25210	next	other	0
+test	4	Picture	Pic18:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	157842	27291	1	1389	1	26560	next	other	0
+test	4	Picture	Pic19:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	159231	28680	1	1389	1	27910	next	other	0
+test	4	Picture	Pic20:4:grating2_cont2_or2,grating2_cont1_or2, fix:1	160620	30068	1	4930	1	29260	next	other	0
+test	5	Picture	Pic1:3:grating2_cont2_or2,grating2_cont1_or2, fix:1	182286	0	20	5000	20	0	next	other	0
+test	5	Picture	Pic2:26:grating2_cont2_or2,grating2_cont1_or2, fix:3	187286	5000	1	1389	1	4960	next	other	0
+test	5	Picture	Pic3:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	188675	6389	1	1389	1	6310	next	other	0
+test	5	Picture	Pic4:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	190064	7778	1	1389	1	7660	next	other	0
+test	5	Picture	Pic5:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	191452	9166	1	1389	1	9010	next	other	0
+test	5	Picture	Pic6:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	192841	10555	1	1389	1	10360	next	other	0
+test	5	Picture	Pic7:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	194230	11944	1	1389	1	11710	next	other	0
+test	5	Picture	Pic8:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	195619	13333	1	1389	1	13060	next	other	0
+test	5	Picture	Pic9:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	197008	14722	1	1389	1	14410	next	other	0
+test	5	Picture	Pic10:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	198397	16111	1	1389	1	15760	next	other	0
+test	5	Picture	Pic11:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	199785	17500	1	1389	1	17110	next	other	0
+test	5	Picture	Pic12:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	201174	18888	1	1389	1	18460	next	other	0
+test	5	Picture	Pic13:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	202563	20277	1	1389	1	19810	next	other	0
+test	5	Picture	Pic14:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	203952	21666	1	1389	1	21160	next	other	0
+test	5	Picture	Pic15:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	205341	23055	1	1389	1	22510	next	other	0
+test	5	Picture	Pic16:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	206730	24444	1	1389	1	23860	next	other	0
+test	5	Picture	Pic17:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	208119	25833	1	1389	1	25210	next	other	0
+test	5	Picture	Pic18:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	209507	27221	1	1389	1	26560	next	other	0
+test	5	Picture	Pic19:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	210896	28610	1	1389	1	27910	next	other	0
+test	5	Picture	Pic20:4:grating2_cont2_or2,grating2_cont1_or2, fix:1	212285	29999	1	5000	1	29260	next	other	0
+test	6	Picture	Pic1:3:grating2_cont4_or2,grating2_cont1_or2, fix:1	234159	0	1	5416	1	0	next	other	0
+test	6	Picture	Pic2:31:grating2_cont4_or2,grating2_cont1_or2, fix:3	239576	5416	1	1389	1	5380	next	other	0
+test	6	Picture	Pic3:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	240965	6805	1	1389	1	6730	next	other	0
+test	6	Picture	Pic4:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	242354	8194	1	1389	1	8080	next	other	0
+test	6	Picture	Pic5:5:grating2_cont4_or2,grating2_cont1_or2, fix:2	243742	9583	1	1389	1	9430	next	other	0
+test	6	Picture	Pic6:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	245131	10972	1	1389	1	10780	next	other	0
+test	6	Picture	Pic7:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	246520	12361	1	1389	1	12130	next	other	0
+test	6	Picture	Pic8:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	247909	13749	1	1389	1	13480	next	other	0
+test	6	Picture	Pic9:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	249298	15138	1	1389	1	14830	next	other	0
+test	6	Picture	Pic10:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	250687	16527	1	1389	1	16180	next	other	0
+test	6	Picture	Pic11:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	252075	17916	1	1388	2	17530	next	other	0
+test	6	Picture	Pic12:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	253464	19304	2	1390	2	18880	next	other	0
+test	6	Picture	Pic13:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	254853	20694	1	1389	1	20230	next	other	0
+test	6	Picture	Pic14:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	256242	22083	1	1389	1	21580	next	other	0
+test	6	Picture	Pic15:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	257631	23471	1	1389	1	22930	next	other	0
+test	6	Picture	Pic16:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	259020	24860	1	1389	1	24280	next	other	0
+test	6	Picture	Pic17:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	260409	26249	1	1389	1	25630	next	other	0
+test	6	Picture	Pic18:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	261797	27638	1	1389	1	26980	next	other	0
+test	6	Picture	Pic19:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	263186	29027	1	1389	1	28330	next	other	0
+test	6	Picture	Pic20:4:grating2_cont4_or2,grating2_cont1_or2, fix:1	264575	30416	1	5000	1	29680	next	other	0
+test	7	Picture	Pic1:3:grating1_cont3_or1,grating0, fix:1	286310	0	1	4514	1	0	next	other	0
+test	7	Picture	Pic2:130:grating1_cont3_or1,grating0, fix:3	290824	4514	1	1389	1	4470	next	other	0
+test	7	Picture	Pic3:0:grating1_cont3_or1,grating0, fix:1	292213	5903	1	1389	1	5820	next	other	0
+test	7	Picture	Pic4:0:grating1_cont3_or1,grating0, fix:1	293602	7291	1	1389	1	7170	next	other	0
+test	7	Picture	Pic5:0:grating1_cont3_or1,grating0, fix:1	294991	8680	1	1389	1	8520	next	other	0
+test	7	Picture	Pic6:0:grating1_cont3_or1,grating0, fix:1	296380	10069	1	1389	1	9870	next	other	0
+test	7	Picture	Pic7:5:grating1_cont3_or1,grating0, fix:2	297768	11458	1	1389	1	11220	next	other	0
+test	7	Picture	Pic8:0:grating1_cont3_or1,grating0, fix:1	299157	12847	1	1389	1	12570	next	other	0
+test	7	Picture	Pic9:0:grating1_cont3_or1,grating0, fix:1	300546	14236	1	1389	1	13920	next	other	0
+test	7	Picture	Pic10:0:grating1_cont3_or1,grating0, fix:1	301935	15624	1	1389	1	15270	next	other	0
+test	7	Picture	Pic11:0:grating1_cont3_or1,grating0, fix:1	303324	17013	1	1389	1	16620	next	other	0
+test	7	Picture	Pic12:0:grating1_cont3_or1,grating0, fix:1	304713	18402	1	1389	1	17970	next	other	0
+test	7	Picture	Pic13:0:grating1_cont3_or1,grating0, fix:1	306101	19791	1	1389	1	19320	next	other	0
+test	7	Picture	Pic14:0:grating1_cont3_or1,grating0, fix:1	307490	21180	1	1389	1	20670	next	other	0
+test	7	Picture	Pic15:0:grating1_cont3_or1,grating0, fix:1	308879	22569	1	1389	1	22020	next	other	0
+test	7	Picture	Pic16:0:grating1_cont3_or1,grating0, fix:1	310268	23958	1	1389	1	23370	next	other	0
+test	7	Picture	Pic17:0:grating1_cont3_or1,grating0, fix:1	311657	25346	1	1389	1	24720	next	other	0
+test	7	Picture	Pic18:0:grating1_cont3_or1,grating0, fix:1	313046	26735	1	1389	1	26070	next	other	0
+test	7	Picture	Pic19:0:grating1_cont3_or1,grating0, fix:1	314435	28124	1	1389	1	27420	next	other	0
+test	7	Picture	Pic20:4:grating1_cont3_or1,grating0, fix:1	315823	29513	1	5000	1	28770	next	other	0
+test	7	Quit		325802	39492	NA

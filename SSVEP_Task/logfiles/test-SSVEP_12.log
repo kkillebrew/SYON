@@ -1,0 +1,50 @@
+Scenario - SSVEP
+Logfile written - 02/26/2020 11:25:11
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Response	1	38268	26767	1
+test	1	Response	1	41308	29807	1
+test	1	Response	1	44107	32606	1
+test	1	Response	2	50827	39326	2
+test	1	Response	2	52507	41006	1
+test	1	Response	2	54507	43006	1
+test	1	Response	1	56587	45086	1
+test	1	Response	1	58907	47406	2
+test	1	Response	1	60907	49406	1
+test	1	Response	2	61067	49566	1
+test	2	Response	2	62987	1437	1
+test	2	Response	2	64503	2953	293
+test	2	Response	1	66301	4751	320
+test	2	Response	2	66301	4751	320
+test	2	Response	1	68505	6955	313
+test	2	Response	2	73762	12212	289
+test	2	Response	1	75948	14398	1
+test	2	Response	2	76027	14477	1
+test	2	Response	1	77867	16317	1
+test	2	Response	2	77947	16397	1
+test	3	Picture	Pic1:3:grating2_cont4_or1,grating2_cont1_or1, fix:1	78399	0	2	5450	226	0	next	other	0
+test	3	Picture	Pic2:23:grating2_cont4_or1,grating2_cont1_or1, fix:3	83849	5450	224	1350	432	5450	next	other	0
+test	3	Picture	Pic3:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	85199	6800	208	1350	401	6800	next	other	0
+test	3	Picture	Pic4:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	86549	8150	193	1526	195	8150	next	other	0
+test	3	Picture	Pic5:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	88075	9676	2	1502	3	9500	next	other	0
+test	3	Picture	Pic6:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	89577	11178	1	1501	3	10850	next	other	0
+test	3	Picture	Pic7:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	91078	12679	2	1502	3	12200	next	other	0
+test	3	Picture	Pic8:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	92580	14181	1	1501	3	13550	next	other	0
+test	3	Picture	Pic9:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	94081	15682	2	1502	3	14900	next	other	0
+test	3	Picture	Pic10:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	95583	17184	1	1501	3	16250	next	other	0
+test	3	Picture	Pic11:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	97084	18685	2	1502	3	17600	next	other	0
+test	3	Picture	Pic12:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	98586	20187	1	1501	3	18950	next	other	0
+test	3	Picture	Pic13:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	100087	21688	2	1502	3	20300	next	other	0
+test	3	Picture	Pic14:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	101589	23190	1	1501	2	21650	next	other	0
+test	3	Picture	Pic15:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	103090	24691	1	1502	2	23000	next	other	0
+test	3	Picture	Pic16:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	104592	26193	1	1501	2	24350	next	other	0
+test	3	Picture	Pic17:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	106093	27694	1	1502	2	25700	next	other	0
+test	3	Picture	Pic18:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	107595	29196	1	1501	2	27050	next	other	0
+test	3	Picture	Pic19:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	109096	30697	1	1502	2	28400	next	other	0
+test	3	Picture	Pic20:4:grating2_cont4_or1,grating2_cont1_or1, fix:1	110598	32199	1	3336	2	29750	next	other	0
+test	3	Quit		124033	45634
+
+The following output port codes were not sent because of a conflict on the port.
+Port	Code	Time(ms)
+1	2	6662

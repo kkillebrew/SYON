@@ -1,0 +1,26 @@
+Scenario - SSVEP
+Logfile written - 10/18/2019 12:04:12
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	2	Response	1	62655	1114	1
+test	3	Picture	Pic1:3:grating2_cont5_or1,grating2_cont1_or1, fix:1	76645	0	243	4060	429	0	next	other	0
+test	3	Picture	Pic2:31:grating2_cont5_or1,grating2_cont1_or1, fix:3	80705	4060	186	1519	187	4060	next	other	0
+test	3	Picture	Pic3:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	82224	5579	1	1501	2	5410	next	other	0
+test	3	Picture	Pic4:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	83725	7080	1	1501	3	6760	next	other	0
+test	3	Picture	Pic5:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	85226	8581	2	1502	3	8110	next	other	0
+test	3	Picture	Pic6:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	86728	10083	1	1501	2	9460	next	other	0
+test	3	Picture	Pic7:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	88229	11584	1	1501	2	10810	next	other	0
+test	3	Picture	Pic8:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	89730	13085	1	1501	2	12160	next	other	0
+test	3	Picture	Pic9:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	91231	14586	1	1501	3	13510	next	other	0
+test	3	Picture	Pic10:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	92732	16087	2	1502	3	14860	next	other	0
+test	3	Picture	Pic11:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	94234	17589	1	1501	2	16210	next	other	0
+test	3	Picture	Pic12:5:grating2_cont5_or1,grating2_cont1_or1, fix:2	95735	19090	1	1501	2	17560	next	other	0
+test	3	Picture	Pic13:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	97236	20591	1	1501	3	18910	next	other	0
+test	3	Picture	Pic14:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	98737	22092	2	1501	4	20260	next	other	0
+test	3	Picture	Pic15:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	100238	23593	2	1502	3	21610	next	other	0
+test	3	Picture	Pic16:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	101740	25095	1	1501	2	22960	next	other	0
+test	3	Picture	Pic17:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	103241	26596	1	1501	2	24310	next	other	0
+test	3	Picture	Pic18:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	104742	28097	1	1501	3	25660	next	other	0
+test	3	Picture	Pic19:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	106243	29598	2	1501	4	27010	next	other	0
+test	3	Picture	Pic20:4:grating2_cont5_or1,grating2_cont1_or1, fix:1	107744	31099	2	3003	3	28360	next	other	0

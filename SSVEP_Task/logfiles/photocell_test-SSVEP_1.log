@@ -1,0 +1,11 @@
+Scenario - SSVEP
+Logfile written - 11/06/2019 14:47:48
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+photocell_test	2	Response	1	71447	9906	2
+photocell_test	3	Picture	Pic1:3:grating2_cont5_or1,grating2_cont1_or1, fix:1	85727	0	1	5650	190	0	next	other	0
+photocell_test	3	Picture	Pic2:124:grating2_cont5_or1,grating2_cont1_or1, fix:3	91377	5650	189	1522	190	5650	next	other	0
+photocell_test	3	Picture	Pic3:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	92899	7172	1	1501	3	7000	next	other	0
+photocell_test	3	Picture	Pic4:0:grating2_cont5_or1,grating2_cont1_or1, fix:1	94400	8673	2	1289	3	8350	next	other	0
+photocell_test	3	Quit		95099	9372

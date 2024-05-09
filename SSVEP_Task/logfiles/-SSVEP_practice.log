@@ -1,0 +1,42 @@
+Scenario - SSVEP
+Logfile written - 01/26/2021 12:26:21
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+	1	Response	1	26841	15700	1
+	2	Response	1	103640	42424	1
+	3	Picture	Pic1:3:grating1_cont2_or2,grating0, fix:1	117910	0	196	5534	197	0	next	other	0
+	3	Picture	Pic2:116:grating1_cont2_or2,grating0, fix:3	123444	5534	1	1501	2	5380	next	other	0
+	3	Picture	Pic3:0:grating1_cont2_or2,grating0, fix:1	124945	7035	1	1502	2	6730	next	other	0
+	3	Picture	Pic4:0:grating1_cont2_or2,grating0, fix:1	126447	8537	1	1501	2	8080	next	other	0
+	3	Picture	Pic5:0:grating1_cont2_or2,grating0, fix:1	127948	10038	1	1502	2	9430	next	other	0
+	3	Picture	Pic6:0:grating1_cont2_or2,grating0, fix:1	129450	11540	1	1501	2	10780	next	other	0
+	3	Picture	Pic7:0:grating1_cont2_or2,grating0, fix:1	130951	13041	1	1501	3	12130	next	other	0
+	3	Picture	Pic8:0:grating1_cont2_or2,grating0, fix:1	132452	14542	2	1502	3	13480	next	other	0
+	3	Picture	Pic9:0:grating1_cont2_or2,grating0, fix:1	133954	16044	1	1501	3	14830	next	other	0
+	3	Picture	Pic10:0:grating1_cont2_or2,grating0, fix:1	135455	17545	2	1502	3	16180	next	other	0
+	3	Picture	Pic11:0:grating1_cont2_or2,grating0, fix:1	136957	19047	1	1501	3	17530	next	other	0
+	3	Picture	Pic12:0:grating1_cont2_or2,grating0, fix:1	138458	20548	2	1502	3	18880	next	other	0
+	3	Picture	Pic13:0:grating1_cont2_or2,grating0, fix:1	139960	22050	1	1501	3	20230	next	other	0
+	3	Picture	Pic14:0:grating1_cont2_or2,grating0, fix:1	141461	23551	2	1502	3	21580	next	other	0
+	3	Picture	Pic15:0:grating1_cont2_or2,grating0, fix:1	142963	25053	1	1501	2	22930	next	other	0
+	3	Picture	Pic16:0:grating1_cont2_or2,grating0, fix:1	144464	26554	1	1502	2	24280	next	other	0
+	3	Picture	Pic17:0:grating1_cont2_or2,grating0, fix:1	145966	28056	1	1501	2	25630	next	other	0
+	3	Picture	Pic18:0:grating1_cont2_or2,grating0, fix:1	147467	29557	1	1502	2	26980	next	other	0
+	3	Picture	Pic19:0:grating1_cont2_or2,grating0, fix:1	148969	31059	1	1501	2	28330	next	other	0
+	3	Picture	Pic20:4:grating1_cont2_or2,grating0, fix:1	150470	32560	1	2836	2	29680	next	other	0
+	4	Picture	Pic1:3:grating2_cont2_or2,grating2_cont1_or2, fix:1	166486	0	1	4838	2	0	next	other	0
+	4	Picture	Pic2:26:grating2_cont2_or2,grating2_cont1_or2, fix:3	171324	4838	1	1501	2	4750	next	other	0
+	4	Picture	Pic3:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	172825	6339	1	1502	2	6100	next	other	0
+	4	Picture	Pic4:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	174327	7841	1	1501	2	7450	next	other	0
+	4	Picture	Pic5:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	175828	9342	1	1502	2	8800	next	other	0
+	4	Picture	Pic6:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	177330	10844	1	1501	2	10150	next	other	0
+	4	Picture	Pic7:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	178831	12345	1	1502	2	11500	next	other	0
+	4	Picture	Pic8:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	180333	13847	1	1501	2	12850	next	other	0
+	4	Picture	Pic9:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	181834	15348	1	1501	3	14200	next	other	0
+	4	Picture	Pic10:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	183335	16849	2	1502	3	15550	next	other	0
+	4	Picture	Pic11:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	184837	18351	1	1501	3	16900	next	other	0
+	4	Picture	Pic12:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	186338	19852	2	1502	3	18250	next	other	0
+	4	Picture	Pic13:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	187840	21354	1	1501	3	19600	next	other	0
+	4	Picture	Pic14:0:grating2_cont2_or2,grating2_cont1_or2, fix:1	189341	22855	2	1367	3	20950	next	other	0
+	4	Quit		190001	23515

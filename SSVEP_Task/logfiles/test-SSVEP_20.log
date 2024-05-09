@@ -1,0 +1,31 @@
+Scenario - SSVEP
+Logfile written - 02/12/2021 16:26:59
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Response	1	33471	22006	2
+test	1	Response	2	46751	35286	2
+test	1	Response	1	50431	38966	1
+test	2	Response	2	61951	401	1
+test	2	Response	1	68986	7436	326
+test	3	Picture	Pic1:3:grating2_cont4_or1,grating2_cont1_or1, fix:1	77541	0	192	4195	193	0	next	other	0
+test	3	Picture	Pic2:23:grating2_cont4_or1,grating2_cont1_or1, fix:3	81736	4195	1	1502	2	4060	next	other	0
+test	3	Picture	Pic3:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	83238	5697	1	1501	2	5410	next	other	0
+test	3	Picture	Pic4:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	84739	7198	1	1501	3	6760	next	other	0
+test	3	Picture	Pic5:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	86240	8699	2	1502	3	8110	next	other	0
+test	3	Picture	Pic6:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	87742	10201	1	1501	3	9460	next	other	0
+test	3	Picture	Pic7:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	89243	11702	2	1502	3	10810	next	other	0
+test	3	Picture	Pic8:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	90745	13204	1	1501	3	12160	next	other	0
+test	3	Picture	Pic9:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	92246	14705	2	1502	3	13510	next	other	0
+test	3	Picture	Pic10:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	93748	16207	1	1501	3	14860	next	other	0
+test	3	Picture	Pic11:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	95249	17708	2	1502	3	16210	next	other	0
+test	3	Picture	Pic12:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	96751	19210	1	1501	3	17560	next	other	0
+test	3	Picture	Pic13:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	98252	20711	2	1502	3	18910	next	other	0
+test	3	Picture	Pic14:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	99754	22213	1	1501	3	20260	next	other	0
+test	3	Picture	Pic15:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	101255	23714	2	1502	3	21610	next	other	0
+test	3	Picture	Pic16:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	102757	25216	1	1501	2	22960	next	other	0
+test	3	Picture	Pic17:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	104258	26717	1	1502	2	24310	next	other	0
+test	3	Picture	Pic18:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	105760	28219	1	1501	2	25660	next	other	0
+test	3	Picture	Pic19:0:grating2_cont4_or1,grating2_cont1_or1, fix:1	107261	29720	1	1502	2	27010	next	other	0
+test	3	Picture	Pic20:4:grating2_cont4_or1,grating2_cont1_or1, fix:1	108763	31222	1	3003	2	28360	next	other	0
+test	3	Quit		126168	48627

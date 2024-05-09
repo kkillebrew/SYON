@@ -1,0 +1,26 @@
+Scenario - SSVEP
+Logfile written - 08/27/2021 12:22:00
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	2	Response	1	82374	21334	1
+test	3	Picture	Pic1:3:grating2_cont3_or1,grating2_cont1_or1, fix:1	99071	0	1	5504	1	0	next	other	0
+test	3	Picture	Pic2:131:grating2_cont3_or1,grating2_cont1_or1, fix:3	104575	5504	1	1835	1	5030	next	other	0
+test	3	Picture	Pic3:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	106410	7339	1	1835	1	6380	next	other	0
+test	3	Picture	Pic4:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	108245	9174	1	1835	1	7730	next	other	0
+test	3	Picture	Pic5:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	110080	11009	1	1835	1	9080	next	other	0
+test	3	Picture	Pic6:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	111914	12844	1	1835	1	10430	next	other	0
+test	3	Picture	Pic7:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	113749	14678	1	1835	1	11780	next	other	0
+test	3	Picture	Pic8:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	115584	16513	1	1835	1	13130	next	other	0
+test	3	Picture	Pic9:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	117419	18348	1	1835	1	14480	next	other	0
+test	3	Picture	Pic10:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	119254	20183	1	1835	1	15830	next	other	0
+test	3	Picture	Pic11:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	121088	22018	1	1835	1	17180	next	other	0
+test	3	Picture	Pic12:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	122923	23852	1	1835	1	18530	next	other	0
+test	3	Picture	Pic13:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	124758	25687	1	1835	1	19880	next	other	0
+test	3	Picture	Pic14:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	126593	27522	1	1835	1	21230	next	other	0
+test	3	Picture	Pic15:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	128428	29357	1	1835	1	22580	next	other	0
+test	3	Picture	Pic16:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	130262	31192	1	1835	1	23930	next	other	0
+test	3	Picture	Pic17:5:grating2_cont3_or1,grating2_cont1_or1, fix:2	132097	33026	1	1835	1	25280	next	other	0
+test	3	Picture	Pic18:0:grating2_cont3_or1,grating2_cont1_or1, fix:1	133932	34861	1	667	1	26630	next	other	0
+test	4	Picture	Pic1:3:grating1_cont2_or2,grating0, fix:1	150612	0	1	13633	1	0	next	other	0
+test	4	Quit		154753	4141	NA

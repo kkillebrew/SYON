@@ -1,0 +1,24 @@
+Scenario - SSVEP
+Logfile written - 09/13/2021 13:19:05
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	2	Response	1	63343	2303	1
+test	3	Picture	Pic1:3:grating2_cont4_or2,grating2_cont1_or2, fix:1	78053	0	1	5694	1	0	next	other	0
+test	3	Picture	Pic2:28:grating2_cont4_or2,grating2_cont1_or2, fix:3	83747	5694	1	1528	1	5520	next	other	0
+test	3	Picture	Pic3:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	85275	7222	1	1528	1	6870	next	other	0
+test	3	Picture	Pic4:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	86803	8750	1	1528	1	8220	next	other	0
+test	3	Picture	Pic5:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	88330	10277	1	1528	1	9570	next	other	0
+test	3	Picture	Pic6:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	89858	11805	1	1597	1	10920	next	other	0
+test	3	Picture	Pic7:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	91455	13402	1	1528	1	12270	next	other	0
+test	3	Picture	Pic8:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	92983	14930	1	1528	1	13620	next	other	0
+test	3	Picture	Pic9:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	94511	16458	1	1528	1	14970	next	other	0
+test	3	Picture	Pic10:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	96038	17985	1	1528	1	16320	next	other	0
+test	3	Picture	Pic11:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	97566	19513	1	1528	1	17670	next	other	0
+test	3	Picture	Pic12:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	99094	21041	1	1528	1	19020	next	other	0
+test	3	Picture	Pic13:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	100621	22569	1	1528	1	20370	next	other	0
+test	3	Picture	Pic14:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	102149	24096	1	1528	1	21720	next	other	0
+test	3	Picture	Pic15:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	103677	25624	1	1528	1	23070	next	other	0
+test	3	Picture	Pic16:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	105205	27152	1	1528	1	24420	next	other	0
+test	3	Picture	Pic17:0:grating2_cont4_or2,grating2_cont1_or2, fix:1	106732	28679	1	8971	1	25770	next	other	0
+test	3	Quit		108015	29962	NA
